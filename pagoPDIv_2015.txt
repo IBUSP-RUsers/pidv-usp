@@ -1,0 +1,1433 @@
+Pessoa/Organização;Item;Pago (R$);Pago Restos (R$)
+Abigail Simas;31909413 - Despesa com Incentivo a Demissão Voluntária;167237,10;0,00
+Adair Pereira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;144996,19;0,00
+Adalberto Miguel Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;154548,80;0,00
+Adalgisa Luiza da Fonseca;31909413 - Despesa com Incentivo a Demissão Voluntária;95137,13;0,00
+Adao Carlos de Paula;31909413 - Despesa com Incentivo a Demissão Voluntária;92280,79;0,00
+Adelia Regina Volpato Cham;31909413 - Despesa com Incentivo a Demissão Voluntária;116436,59;0,00
+Adelina Aparecida Martinelli Goncalves;31909413 - Despesa com Incentivo a Demissão Voluntária;148121,51;0,00
+Adelina Rocha;31909413 - Despesa com Incentivo a Demissão Voluntária;147169,05;0,00
+Adelio Pereira Dias;31909413 - Despesa com Incentivo a Demissão Voluntária;158916,70;0,00
+Ademir Gesuel Severino;31909413 - Despesa com Incentivo a Demissão Voluntária;66404,65;0,00
+Ademir Guimaraes;31909413 - Despesa com Incentivo a Demissão Voluntária;140815,23;0,00
+Ademir Moyses da Silveira Leite;31909413 - Despesa com Incentivo a Demissão Voluntária;100855,18;0,00
+Ademir Paulino;31909413 - Despesa com Incentivo a Demissão Voluntária;176193,38;0,00
+Adeny Conceição de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;138876,06;0,00
+Adesia Sousa da Mata;31909413 - Despesa com Incentivo a Demissão Voluntária;74933,88;0,00
+Adilson de Carvalho;31909413 - Despesa com Incentivo a Demissão Voluntária;60782,01;0,00
+Adinair Pedreira Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;160555,73;0,00
+Agostinha Cardoso Batista;31909413 - Despesa com Incentivo a Demissão Voluntária;86747,10;0,00
+Agostinho Dias Bicalho;31909413 - Despesa com Incentivo a Demissão Voluntária;63667,28;0,00
+Agueda Paredes;31909413 - Despesa com Incentivo a Demissão Voluntária;89274,30;0,00
+Aide Barbosa dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;159937,00;0,00
+Aiko Endo;31909413 - Despesa com Incentivo a Demissão Voluntária;169901,48;0,00
+Airton de Angelo;31909413 - Despesa com Incentivo a Demissão Voluntária;129818,02;0,00
+Airton Ferreira Goncalves;31909413 - Despesa com Incentivo a Demissão Voluntária;449594,72;0,00
+Alaide Aparecida de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;174233,50;0,00
+Alan Gonçalves de Sousa;31909413 - Despesa com Incentivo a Demissão Voluntária;20527,76;0,00
+Albert Bousso;31909413 - Despesa com Incentivo a Demissão Voluntária;436004,76;0,00
+Alberto Jose dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;221232,69;0,00
+Alberto Yoshinobu Onoe;31909413 - Despesa com Incentivo a Demissão Voluntária;596701,07;0,00
+Alcides Altarugio;31909413 - Despesa com Incentivo a Demissão Voluntária;123394,95;0,00
+Alcides Teixeira dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;126556,38;0,00
+Aldecir Ferreira da Silva Matos;31909413 - Despesa com Incentivo a Demissão Voluntária;152315,30;0,00
+Alecio Aparecido Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;82269,97;0,00
+Alexandre Teles Garcez;31909413 - Despesa com Incentivo a Demissão Voluntária;117252,02;0,00
+Alfredo Franco Junior;31909413 - Despesa com Incentivo a Demissão Voluntária;347489,99;0,00
+Alice Dario;31909413 - Despesa com Incentivo a Demissão Voluntária;180553,00;0,00
+Aliceu Correa;31909413 - Despesa com Incentivo a Demissão Voluntária;89501,55;0,00
+Almir Fideles de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;92700,79;0,00
+Almiro Baltasar da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;91576,60;0,00
+Aloisio Bernardo da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;172495,94;0,00
+Altair Rodrigues de Jesus;31909413 - Despesa com Incentivo a Demissão Voluntária;151721,99;0,00
+Aluisio Margarido Alberici;31909413 - Despesa com Incentivo a Demissão Voluntária;319462,13;0,00
+Aluizio Henrique Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;139449,31;0,00
+Alvaro Bertucci;31909413 - Despesa com Incentivo a Demissão Voluntária;447737,08;0,00
+Amalia Lucia Basso;31909413 - Despesa com Incentivo a Demissão Voluntária;235001,25;0,00
+Amauri Ramos Pinhal;31909413 - Despesa com Incentivo a Demissão Voluntária;155408,34;0,00
+Ana Antonia Tristao Moura;31909413 - Despesa com Incentivo a Demissão Voluntária;171130,70;0,00
+Ana Aparecida Gomes Grigolli;31909413 - Despesa com Incentivo a Demissão Voluntária;442868,36;0,00
+Ana Beatriz Ramos;31909413 - Despesa com Incentivo a Demissão Voluntária;155903,49;0,00
+Ana Claudia Herculano de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;11342,13;0,00
+Ana Elisa Vieira;31909413 - Despesa com Incentivo a Demissão Voluntária;223937,08;0,00
+Ana Lucia da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;165434,77;0,00
+Ana Lucia Lorente;31909413 - Despesa com Incentivo a Demissão Voluntária;123216,14;0,00
+Ana Maria Barbosa Barrantes;31909413 - Despesa com Incentivo a Demissão Voluntária;149667,80;0,00
+Ana Maria Brancalion Giacomelli;31909413 - Despesa com Incentivo a Demissão Voluntária;170574,55;0,00
+Ana Maria Campos Ribeiro;31909413 - Despesa com Incentivo a Demissão Voluntária;121875,05;0,00
+Ana Maria Capel Sales dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;155591,98;0,00
+Ana Maria Cristiano da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;119575,10;0,00
+Ana Maria Curvelo Borges;31909413 - Despesa com Incentivo a Demissão Voluntária;293978,40;0,00
+Ana Maria de Almeida Fernandes;31909413 - Despesa com Incentivo a Demissão Voluntária;137519,93;0,00
+Ana Maria de Jesus Matias;31909413 - Despesa com Incentivo a Demissão Voluntária;140260,55;0,00
+Ana Maria Estela Caetano Barbosa;31909413 - Despesa com Incentivo a Demissão Voluntária;94417,14;0,00
+Ana Maria Ferreira Rosolen;31909413 - Despesa com Incentivo a Demissão Voluntária;122479,47;0,00
+Ana Maria Herling Krugner;31909413 - Despesa com Incentivo a Demissão Voluntária;348286,67;0,00
+Ana Maria Machado Bocchio;31909413 - Despesa com Incentivo a Demissão Voluntária;148939,46;0,00
+Ana Maria Machado dos Santos Sousa;31909413 - Despesa com Incentivo a Demissão Voluntária;34878,34;0,00
+Ana Maria Ventura Braz;31909413 - Despesa com Incentivo a Demissão Voluntária;69565,24;0,00
+Ana Rita Araujo Goncalves;31909413 - Despesa com Incentivo a Demissão Voluntária;161689,31;0,00
+Ana Rosa da Silva Barbosa;31909413 - Despesa com Incentivo a Demissão Voluntária;264352,83;0,00
+Ana Virginia de Almeida Prado Chacur;31909413 - Despesa com Incentivo a Demissão Voluntária;165013,13;0,00
+Anaizuede Estefania da Silva Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;121203,93;0,00
+Analice Gomes Bueno;31909413 - Despesa com Incentivo a Demissão Voluntária;281835,91;0,00
+Andemir da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;162177,05;0,00
+Andre Alberto Baghi;31909413 - Despesa com Incentivo a Demissão Voluntária;116859,76;0,00
+Andre Onuki dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;11447,45;0,00
+Andrea Kaiser;31909413 - Despesa com Incentivo a Demissão Voluntária;191058,24;0,00
+Andrea Tamancoldi Couto;31909413 - Despesa com Incentivo a Demissão Voluntária;405934,19;0,00
+Andreia Cristina Hypolito Jose;31909413 - Despesa com Incentivo a Demissão Voluntária;16194,22;0,00
+Angela Aparecida da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;118905,10;0,00
+Angela Marcia Oliveira Sampaio;31909413 - Despesa com Incentivo a Demissão Voluntária;164409,17;0,00
+Angela Maria Lucato Aguilar;31909413 - Despesa com Incentivo a Demissão Voluntária;300445,29;0,00
+Angelica Bertochi Franco;31909413 - Despesa com Incentivo a Demissão Voluntária;87132,80;0,00
+Angelica de Jesus Miguel;31909413 - Despesa com Incentivo a Demissão Voluntária;229278,24;0,00
+Angelina Martha Chopard Gerhard;31909413 - Despesa com Incentivo a Demissão Voluntária;424200,68;0,00
+Angelo Antonio Alves Correa da Cruz;31909413 - Despesa com Incentivo a Demissão Voluntária;405053,73;0,00
+Angelo Yachel;31909413 - Despesa com Incentivo a Demissão Voluntária;168856,08;0,00
+Anisia Odete Martins;31909413 - Despesa com Incentivo a Demissão Voluntária;182998,39;0,00
+Anizio Bernardo de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;184913,53;0,00
+Annete Moreira Milesi;31909413 - Despesa com Incentivo a Demissão Voluntária;75387,31;0,00
+Antonia Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;75158,59;0,00
+Antonia Maria Vieira do Nascimento;31909413 - Despesa com Incentivo a Demissão Voluntária;129874,91;0,00
+Antonia Martins da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;54550,17;0,00
+Antonia Veralucia da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;181305,71;0,00
+Antonio Adolfo de Queiroz;31909413 - Despesa com Incentivo a Demissão Voluntária;60977,24;0,00
+Antonio Akio Iwai;31909413 - Despesa com Incentivo a Demissão Voluntária;294184,67;0,00
+Antonio Almeida Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;112336,18;0,00
+Antonio Alves da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;171193,59;0,00
+Antonio Aparecido de Moraes;31909413 - Despesa com Incentivo a Demissão Voluntária;169136,60;0,00
+Antonio Aparecido de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;105650,60;0,00
+Antonio Carlos Baladore;31909413 - Despesa com Incentivo a Demissão Voluntária;98011,64;0,00
+Antonio Carlos Goncalves Pena;31909413 - Despesa com Incentivo a Demissão Voluntária;73943,16;0,00
+Antonio Carlos Ladera;31909413 - Despesa com Incentivo a Demissão Voluntária;97563,06;0,00
+Antonio Carlos Malaquias;31909413 - Despesa com Incentivo a Demissão Voluntária;155643,91;0,00
+Antonio Carlos Moraes;31909413 - Despesa com Incentivo a Demissão Voluntária;132870,15;0,00
+Antonio Carlos Tadeu Alves Arruda;31909413 - Despesa com Incentivo a Demissão Voluntária;166647,08;0,00
+Antonio Claret Sidney;31909413 - Despesa com Incentivo a Demissão Voluntária;162443,21;0,00
+Antonio Donizete Purcinelli;31909413 - Despesa com Incentivo a Demissão Voluntária;142553,20;0,00
+Antonio Ferreira de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;202674,08;0,00
+Antonio Hortencio de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;130074,53;0,00
+Antonio Jose Dias Duarte;31909413 - Despesa com Incentivo a Demissão Voluntária;146618,82;0,00
+Antonio Jose Reimer;31909413 - Despesa com Incentivo a Demissão Voluntária;282675,11;0,00
+Antonio Lima da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;100376,40;0,00
+Antonio Luiz Aguilera;31909413 - Despesa com Incentivo a Demissão Voluntária;127889,95;0,00
+Antonio Marcos Golim;31909413 - Despesa com Incentivo a Demissão Voluntária;220969,73;0,00
+Antonio Raimundo da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;140292,74;0,00
+Antonio Rodrigues Farias;31909413 - Despesa com Incentivo a Demissão Voluntária;95127,00;0,00
+Antonio Sergio Visconte;31909413 - Despesa com Incentivo a Demissão Voluntária;149512,27;0,00
+Antonio Torres de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;137971,30;0,00
+Antonio Xavier das Neves;31909413 - Despesa com Incentivo a Demissão Voluntária;134476,53;0,00
+Aparecida Benedita dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;198588,83;0,00
+Aparecida Bosqui Martins;31909413 - Despesa com Incentivo a Demissão Voluntária;98285,97;0,00
+Aparecida da Conceição Agonilha de Sousa Roxo;31909413 - Despesa com Incentivo a Demissão Voluntária;195815,00;0,00
+Aparecida da Silva Monte;31909413 - Despesa com Incentivo a Demissão Voluntária;129772,45;0,00
+Aparecida de Fatima Ferreira de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;84296,24;0,00
+Aparecida de Paula Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;127557,43;0,00
+Aparecida de Souza Fim Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;190845,54;0,00
+Aparecida Florizete Machado dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;263898,48;0,00
+Aparecida Forcarelli;31909413 - Despesa com Incentivo a Demissão Voluntária;122005,31;0,00
+Aparecida Garcia de Queiroz;31909413 - Despesa com Incentivo a Demissão Voluntária;133271,11;0,00
+Aparecida Gerene de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;170235,44;0,00
+Aparecida Ivone Godoy;31909413 - Despesa com Incentivo a Demissão Voluntária;122417,08;0,00
+Aparecida Jorgina Braga de Melo;31909413 - Despesa com Incentivo a Demissão Voluntária;93112,45;0,00
+Aparecida Nilse Batochio Miranda;31909413 - Despesa com Incentivo a Demissão Voluntária;125322,44;0,00
+Aparecida Porcini;31909413 - Despesa com Incentivo a Demissão Voluntária;264980,77;0,00
+Aparecido Leonardo Bianchi Lencioni;31909413 - Despesa com Incentivo a Demissão Voluntária;125353,32;0,00
+Aracari Anesio Anteguera;31909413 - Despesa com Incentivo a Demissão Voluntária;65194,75;0,00
+Araksy Meguerditchian Gueogjian;31909413 - Despesa com Incentivo a Demissão Voluntária;245722,16;0,00
+Ari Pereira Luz;31909413 - Despesa com Incentivo a Demissão Voluntária;23731,91;0,00
+Ariovaldo Antonio Augusto;31909413 - Despesa com Incentivo a Demissão Voluntária;319219,84;0,00
+Arlete de Oliveira Batista;31909413 - Despesa com Incentivo a Demissão Voluntária;357483,10;0,00
+Arlete de Oliveira Cavassan;31909413 - Despesa com Incentivo a Demissão Voluntária;405899,91;0,00
+Arlete Guandaligni Remorino;31909413 - Despesa com Incentivo a Demissão Voluntária;363796,96;0,00
+Arnaldo Domingues Rodrigues;31909413 - Despesa com Incentivo a Demissão Voluntária;83178,23;0,00
+Arnaldo Honorato da Rocha;31909413 - Despesa com Incentivo a Demissão Voluntária;186346,42;0,00
+Arnaldo Pedroza da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;135798,12;0,00
+Arnaldo Rossato;31909413 - Despesa com Incentivo a Demissão Voluntária;170555,12;0,00
+Artur Santana Moura;31909413 - Despesa com Incentivo a Demissão Voluntária;123167,05;0,00
+Ary de Barros Velloso Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;298195,81;0,00
+Ataide Concario;31909413 - Despesa com Incentivo a Demissão Voluntária;163457,88;0,00
+Audenir Mendes de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;152459,31;0,00
+Augusto Donizetti Dorta;31909413 - Despesa com Incentivo a Demissão Voluntária;154372,65;0,00
+Augusto Francisco Schulz;31909413 - Despesa com Incentivo a Demissão Voluntária;321110,07;0,00
+Auro Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;135834,73;0,00
+Aurora Inez Martinez;31909413 - Despesa com Incentivo a Demissão Voluntária;88519,73;0,00
+Aurotides Celestino Vieira;31909413 - Despesa com Incentivo a Demissão Voluntária;176682,48;0,00
+Barbara Teixeira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;149933,52;0,00
+Belarmina Alves de Santana;31909413 - Despesa com Incentivo a Demissão Voluntária;93833,14;0,00
+Benedita Aparecida Silveira;31909413 - Despesa com Incentivo a Demissão Voluntária;97286,19;0,00
+Benedita de Lourdes Hilário;31909413 - Despesa com Incentivo a Demissão Voluntária;189150,36;0,00
+Benedita Giangrossi;31909413 - Despesa com Incentivo a Demissão Voluntária;188796,69;0,00
+Benedito Basilio da Conceicao;31909413 - Despesa com Incentivo a Demissão Voluntária;130178,66;0,00
+Benedito Liberato dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;140942,46;0,00
+Benedito Vicente;31909413 - Despesa com Incentivo a Demissão Voluntária;93826,95;0,00
+Benevenuto Santana Marques;31909413 - Despesa com Incentivo a Demissão Voluntária;144790,69;0,00
+Bernadete Aparecida Poli Preto;31909413 - Despesa com Incentivo a Demissão Voluntária;216237,28;0,00
+Brasilio Ricardo Almeida Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;275699,41;0,00
+Bruno Leal Piva;31909413 - Despesa com Incentivo a Demissão Voluntária;46525,00;0,00
+Caetano Amilcar Versola;31909413 - Despesa com Incentivo a Demissão Voluntária;183351,37;0,00
+Caio Seiji Nagayoshi;31909413 - Despesa com Incentivo a Demissão Voluntária;28644,36;0,00
+Camila Neide Favero;31909413 - Despesa com Incentivo a Demissão Voluntária;165010,82;0,00
+Candida Adelaide da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;318751,01;0,00
+Carlito Goncalves dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;137661,87;0,00
+Carlos Alberto da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;204899,64;0,00
+Carlos Alberto Guedes Freire de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;377981,27;0,00
+Carlos Augusto da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;97348,70;0,00
+Carlos Augusto de Sampaio Franca;31909413 - Despesa com Incentivo a Demissão Voluntária;283854,87;0,00
+Carlos Cesar dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;148427,41;0,00
+Carlos de Falco Junior;31909413 - Despesa com Incentivo a Demissão Voluntária;163605,04;0,00
+Carlos Lemos Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;265412,05;0,00
+Carlos Nicolau Anacleto;31909413 - Despesa com Incentivo a Demissão Voluntária;128314,40;0,00
+Carlos Roberto Machado;31909413 - Despesa com Incentivo a Demissão Voluntária;127222,64;0,00
+Carlos Sacilotto;31909413 - Despesa com Incentivo a Demissão Voluntária;238847,82;0,00
+Carlos Umberto Quinareli;31909413 - Despesa com Incentivo a Demissão Voluntária;243024,17;0,00
+Carmem Lucia Borges;31909413 - Despesa com Incentivo a Demissão Voluntária;229008,49;0,00
+Carolina de Castro Mello D'Horta;31909413 - Despesa com Incentivo a Demissão Voluntária;136596,14;0,00
+Caroline Watanabe;31909413 - Despesa com Incentivo a Demissão Voluntária;30282,00;0,00
+Cassia Maria Paula Santos Donadi;31909413 - Despesa com Incentivo a Demissão Voluntária;289857,38;0,00
+Cassiano Ricardo Martins Garcia;31909413 - Despesa com Incentivo a Demissão Voluntária;66970,80;0,00
+Catarina da Silva Guerra;31909413 - Despesa com Incentivo a Demissão Voluntária;109583,55;0,00
+Catarina Hissako Sassaki Ribeiro;31909413 - Despesa com Incentivo a Demissão Voluntária;327936,55;0,00
+Catarina Ilvania da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;161826,93;0,00
+Catarine Katie Ozorio Miranda;31909413 - Despesa com Incentivo a Demissão Voluntária;205828,05;0,00
+Catarino Rodrigues de Aquino;31909413 - Despesa com Incentivo a Demissão Voluntária;156072,38;0,00
+Cecilia Aparecida Cavalheiro Maia;31909413 - Despesa com Incentivo a Demissão Voluntária;88124,10;0,00
+Cecilia Carvalho Meirelles;31909413 - Despesa com Incentivo a Demissão Voluntária;145989,40;0,00
+Cecilia Serafim de Sá;31909413 - Despesa com Incentivo a Demissão Voluntária;161637,73;0,00
+Celi Teixeira Rabelo;31909413 - Despesa com Incentivo a Demissão Voluntária;232554,12;0,00
+Celia Firmino;31909413 - Despesa com Incentivo a Demissão Voluntária;97335,98;0,00
+Celia Lucia Cardoso;31909413 - Despesa com Incentivo a Demissão Voluntária;119638,78;0,00
+Celia Maria D'Avila Tragante;31909413 - Despesa com Incentivo a Demissão Voluntária;103768,59;0,00
+Celia Maria do Nascimento Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;93534,69;0,00
+Celia Maria Fernandes;31909413 - Despesa com Incentivo a Demissão Voluntária;336228,18;0,00
+Celia Regina Rodrigues Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;184978,45;0,00
+Celia Regina Vello;31909413 - Despesa com Incentivo a Demissão Voluntária;373341,00;0,00
+Celina Helena Araujo;31909413 - Despesa com Incentivo a Demissão Voluntária;175348,30;0,00
+Celio Eduardo da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;114477,56;0,00
+Celso Roberto Aparecido Cruz;31909413 - Despesa com Incentivo a Demissão Voluntária;61006,49;0,00
+Celson Costa de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;122916,02;0,00
+Cezario Vieira Santos Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;161896,29;0,00
+Christina Rossini de Carvalho Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;343554,04;0,00
+Christovao Inacio dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;59525,18;0,00
+Cicero Gomes da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;140100,56;0,00
+Cilmara Ramos Henrique;31909413 - Despesa com Incentivo a Demissão Voluntária;229791,88;0,00
+Clara Milanez Rodrigues Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;83160,70;0,00
+Clarice Almeida Soares;31909413 - Despesa com Incentivo a Demissão Voluntária;163613,62;0,00
+Clarice Aparecida Dolo Crepaldi;31909413 - Despesa com Incentivo a Demissão Voluntária;72423,25;0,00
+Clarice Pires Abrantes Lemos;31909413 - Despesa com Incentivo a Demissão Voluntária;280451,99;0,00
+Claudemira Tiossi;31909413 - Despesa com Incentivo a Demissão Voluntária;152690,72;0,00
+Claudenice Maria de Souza Pedrao;31909413 - Despesa com Incentivo a Demissão Voluntária;186402,80;0,00
+Claudete Ferreira Cavalcanti;31909413 - Despesa com Incentivo a Demissão Voluntária;88932,36;0,00
+Claudete Goncalves de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;205734,02;0,00
+Claudia Chuahy;31909413 - Despesa com Incentivo a Demissão Voluntária;190306,98;0,00
+Claudia de Melo Battagia;31909413 - Despesa com Incentivo a Demissão Voluntária;145058,46;0,00
+Claudia de Sousa Caetano;31909413 - Despesa com Incentivo a Demissão Voluntária;11128,97;0,00
+Claudia Lucia Andre da Graca;31909413 - Despesa com Incentivo a Demissão Voluntária;90838,11;0,00
+Claudia Maria de Freitas Floriano;31909413 - Despesa com Incentivo a Demissão Voluntária;90441,83;0,00
+Claudia Maria de Paiva Vital;31909413 - Despesa com Incentivo a Demissão Voluntária;301113,12;0,00
+Claudio Noronha;31909413 - Despesa com Incentivo a Demissão Voluntária;217791,70;0,00
+Cleide Aparecida Ribeira Costa;31909413 - Despesa com Incentivo a Demissão Voluntária;150194,85;0,00
+Cleide Okada;31909413 - Despesa com Incentivo a Demissão Voluntária;276744,68;0,00
+Clelia Aparecida da Matta Moretti;31909413 - Despesa com Incentivo a Demissão Voluntária;389309,52;0,00
+Cleonice Bueno;31909413 - Despesa com Incentivo a Demissão Voluntária;328254,23;0,00
+Cleonice Pacheco Menezes;31909413 - Despesa com Incentivo a Demissão Voluntária;135894,67;0,00
+Cleusa Aparecida do Nascimento Barboza;31909413 - Despesa com Incentivo a Demissão Voluntária;233844,74;0,00
+Cleusa Costa Passos;31909413 - Despesa com Incentivo a Demissão Voluntária;127656,86;0,00
+Cleusa Cruz;31909413 - Despesa com Incentivo a Demissão Voluntária;114790,44;0,00
+Cleuza Gomes da Silva Coghi;31909413 - Despesa com Incentivo a Demissão Voluntária;63882,05;0,00
+Cleyde Vitorino;31909413 - Despesa com Incentivo a Demissão Voluntária;87164,72;0,00
+Clovis Lanzotti;31909413 - Despesa com Incentivo a Demissão Voluntária;122956,02;0,00
+Conceicao Joana da Cunha;31909413 - Despesa com Incentivo a Demissão Voluntária;94250,49;0,00
+Concilio Consolo;31909413 - Despesa com Incentivo a Demissão Voluntária;105900,06;0,00
+Creusa Maria Martins;31909413 - Despesa com Incentivo a Demissão Voluntária;169632,28;0,00
+Creuza Bomfim de Oliveira Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;197440,29;0,00
+Cristiane Camargo Platero;31909413 - Despesa com Incentivo a Demissão Voluntária;85764,06;0,00
+Cristovao Maria;31909413 - Despesa com Incentivo a Demissão Voluntária;98632,90;0,00
+Dalila Aparecida Guedes de Paula;31909413 - Despesa com Incentivo a Demissão Voluntária;259714,66;0,00
+Dalva Alvarez Betim;31909413 - Despesa com Incentivo a Demissão Voluntária;191387,52;0,00
+Dalva Lourenco;31909413 - Despesa com Incentivo a Demissão Voluntária;72786,77;0,00
+Daniel da Silva Queiroz;31909413 - Despesa com Incentivo a Demissão Voluntária;235787,64;0,00
+Dante Augusto Moraes;31909413 - Despesa com Incentivo a Demissão Voluntária;331540,12;0,00
+Danusa Salviano dos Reis Heluy;31909413 - Despesa com Incentivo a Demissão Voluntária;162830,48;0,00
+Darci dos Santos Varela;31909413 - Despesa com Incentivo a Demissão Voluntária;186539,47;0,00
+Darlene Ricetti Borghese;31909413 - Despesa com Incentivo a Demissão Voluntária;240843,89;0,00
+Decio de Campos;31909413 - Despesa com Incentivo a Demissão Voluntária;133120,69;0,00
+Deisy Santos de Morais;31909413 - Despesa com Incentivo a Demissão Voluntária;157006,41;0,00
+Denervaldo Felipe Neres;31909413 - Despesa com Incentivo a Demissão Voluntária;142766,14;0,00
+Deneval Cassarotti;31909413 - Despesa com Incentivo a Demissão Voluntária;100739,47;0,00
+Denise Culbert de Paula;31909413 - Despesa com Incentivo a Demissão Voluntária;39807,17;0,00
+Denise Gomes dos Reis;31909413 - Despesa com Incentivo a Demissão Voluntária;132658,55;0,00
+Denize Terezinha Costa;31909413 - Despesa com Incentivo a Demissão Voluntária;230118,10;0,00
+Deolice Aparecida;31909413 - Despesa com Incentivo a Demissão Voluntária;104384,22;0,00
+Deusa Kazue Anzai;31909413 - Despesa com Incentivo a Demissão Voluntária;188142,78;0,00
+Devanir Jeronimo Del Arco;31909413 - Despesa com Incentivo a Demissão Voluntária;445973,56;0,00
+Devanir Massaro;31909413 - Despesa com Incentivo a Demissão Voluntária;135348,20;0,00
+Dimer Mazzucato;31909413 - Despesa com Incentivo a Demissão Voluntária;209597,20;0,00
+Dinalva Dias Romao Cosso;31909413 - Despesa com Incentivo a Demissão Voluntária;242087,22;0,00
+Dirce Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;89416,90;0,00
+Diva Valentino Parreira;31909413 - Despesa com Incentivo a Demissão Voluntária;82027,05;0,00
+Divina Cleuza Leonel;31909413 - Despesa com Incentivo a Demissão Voluntária;102193,58;0,00
+Domicio Cardoso dos Santos Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;170569,38;0,00
+Doralice Maria Bueno;31909413 - Despesa com Incentivo a Demissão Voluntária;43080,45;0,00
+Dorival Bezerra;31909413 - Despesa com Incentivo a Demissão Voluntária;109892,93;0,00
+Dorli Edna Bruno;31909413 - Despesa com Incentivo a Demissão Voluntária;160936,76;0,00
+Dulce Lusia da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;144023,23;0,00
+Dulce Maria Bastida;31909413 - Despesa com Incentivo a Demissão Voluntária;285127,37;0,00
+Dulcineia Dilva Jacomini;31909413 - Despesa com Incentivo a Demissão Voluntária;387130,62;0,00
+Edgar de Jesus Borges;31909413 - Despesa com Incentivo a Demissão Voluntária;103513,64;0,00
+Edilena Aparecida Batista Colombo;31909413 - Despesa com Incentivo a Demissão Voluntária;210950,65;0,00
+Edileusa Rodrigues Bede;31909413 - Despesa com Incentivo a Demissão Voluntária;392373,53;0,00
+Edilze Maria de Oliveira Arruda;31909413 - Despesa com Incentivo a Demissão Voluntária;171488,54;0,00
+Edineide Teixeira de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;291141,22;0,00
+Edison Dantas da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;124059,14;0,00
+Edith Nantes Ferreira Rodrigues;31909413 - Despesa com Incentivo a Demissão Voluntária;124692,38;0,00
+Edmilson Cavallini;31909413 - Despesa com Incentivo a Demissão Voluntária;280264,64;0,00
+Edna Aparecida dos Santos Moraes;31909413 - Despesa com Incentivo a Demissão Voluntária;233694,38;0,00
+Edna de Fatima Lopes Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;168874,68;0,00
+Edna Maria Alves Queiroz;31909413 - Despesa com Incentivo a Demissão Voluntária;162160,01;0,00
+Edna Maria Brazolim;31909413 - Despesa com Incentivo a Demissão Voluntária;383115,36;0,00
+Edna Nogueira Marques;31909413 - Despesa com Incentivo a Demissão Voluntária;123915,42;0,00
+Ednaldo Souza Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;65137,45;0,00
+Edneia Fabbris Verceze;31909413 - Despesa com Incentivo a Demissão Voluntária;234171,27;0,00
+Edson Aparecido Piva;31909413 - Despesa com Incentivo a Demissão Voluntária;142841,95;0,00
+Edson Augusto Souza Moraes;31909413 - Despesa com Incentivo a Demissão Voluntária;159590,45;0,00
+Edson Kenzo Sanada;31909413 - Despesa com Incentivo a Demissão Voluntária;393400,40;0,00
+Eduardo Ferraz Hage;31909413 - Despesa com Incentivo a Demissão Voluntária;244072,35;0,00
+Eduvaldo Mathias de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;143703,22;0,00
+Edval Robles;31909413 - Despesa com Incentivo a Demissão Voluntária;94622,99;0,00
+Edy Lopes de Lima Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;160581,19;0,00
+Efigenia Estevam de Miranda Torres;31909413 - Despesa com Incentivo a Demissão Voluntária;137698,30;0,00
+Elaine de Fatima dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;83732,04;0,00
+Elaine Goncalves da Silva Correa;31909413 - Despesa com Incentivo a Demissão Voluntária;213757,68;0,00
+Elaine Moura Augusto;31909413 - Despesa com Incentivo a Demissão Voluntária;52396,10;0,00
+Elcio Joaquim de Almeida;31909413 - Despesa com Incentivo a Demissão Voluntária;155308,74;0,00
+Elena Floriano de Toledo;31909413 - Despesa com Incentivo a Demissão Voluntária;145042,60;0,00
+Elenice Coca Bastos;31909413 - Despesa com Incentivo a Demissão Voluntária;98297,97;0,00
+Eleonora Haddad Antunes;31909413 - Despesa com Incentivo a Demissão Voluntária;215791,25;0,00
+Eleonora Maria Rinaldi Gabas;31909413 - Despesa com Incentivo a Demissão Voluntária;153343,70;0,00
+Eleusa Inacio dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;163461,49;0,00
+Eleuza Gouveia;31909413 - Despesa com Incentivo a Demissão Voluntária;366355,36;0,00
+Eli Leite da Costa;31909413 - Despesa com Incentivo a Demissão Voluntária;15259,72;0,00
+Eliana Aparecida Bueno;31909413 - Despesa com Incentivo a Demissão Voluntária;37681,55;0,00
+Eliana Bomfim;31909413 - Despesa com Incentivo a Demissão Voluntária;183531,14;0,00
+Eliana Mendes Goncalves Ramos;31909413 - Despesa com Incentivo a Demissão Voluntária;182800,96;0,00
+Eliane dos Santos Melo;31909413 - Despesa com Incentivo a Demissão Voluntária;159290,78;0,00
+Eliane Falcão Tuler Xavier;31909413 - Despesa com Incentivo a Demissão Voluntária;411994,15;0,00
+Eliane Jany Barbanti;31909413 - Despesa com Incentivo a Demissão Voluntária;379739,58;0,00
+Eliane Maria Paschoal da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;303843,84;0,00
+Eliane Maria Teixeira Leite;31909413 - Despesa com Incentivo a Demissão Voluntária;129399,23;0,00
+Eliane Rocha Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;41974,71;0,00
+Elias Aparecido Marcelino;31909413 - Despesa com Incentivo a Demissão Voluntária;132538,02;0,00
+Elias Costa e Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;97904,26;0,00
+Eliete Luzia Messias de Andrade;31909413 - Despesa com Incentivo a Demissão Voluntária;267748,76;0,00
+Elio Xavier Duarte;31909413 - Despesa com Incentivo a Demissão Voluntária;146126,38;0,00
+Elisabete Bueno;31909413 - Despesa com Incentivo a Demissão Voluntária;209180,46;0,00
+Elisabete Lazara Castori Pereira Jordao;31909413 - Despesa com Incentivo a Demissão Voluntária;220520,70;0,00
+Elisabete Pereira Macedo;31909413 - Despesa com Incentivo a Demissão Voluntária;546911,75;0,00
+Elisabeth Alves Barasal Cruka;31909413 - Despesa com Incentivo a Demissão Voluntária;184975,76;0,00
+Eliseu Marangoni;31909413 - Despesa com Incentivo a Demissão Voluntária;173635,13;0,00
+Elizabeth Aparecida de Souza Bickhoff;31909413 - Despesa com Incentivo a Demissão Voluntária;146059,57;0,00
+Elizabeth Marcondes;31909413 - Despesa com Incentivo a Demissão Voluntária;252174,99;0,00
+Elizabeth Mieko Furusho Pral;31909413 - Despesa com Incentivo a Demissão Voluntária;311127,53;0,00
+Elizabeth Ramirez Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;101875,75;0,00
+Elizano Ercy Paulino;31909413 - Despesa com Incentivo a Demissão Voluntária;163544,74;0,00
+Elizeu Gouveia;31909413 - Despesa com Incentivo a Demissão Voluntária;165608,60;0,00
+Ellen Gobato Pedroso;31909413 - Despesa com Incentivo a Demissão Voluntária;379821,98;0,00
+Eloi de Fatima de Jesus dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;132615,87;0,00
+Eloisa Maria Felix;31909413 - Despesa com Incentivo a Demissão Voluntária;189251,14;0,00
+Elpidio Correa Neto;31909413 - Despesa com Incentivo a Demissão Voluntária;212458,06;0,00
+Ely Antonio Tadeu Dirani;31909413 - Despesa com Incentivo a Demissão Voluntária;218104,60;0,00
+Elza Camilo Mariano;31909413 - Despesa com Incentivo a Demissão Voluntária;164054,84;0,00
+Elza Serra;31909413 - Despesa com Incentivo a Demissão Voluntária;397214,64;0,00
+Elza Vieira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;76202,08;0,00
+Emely Navarro de Almeida Sevilhano;31909413 - Despesa com Incentivo a Demissão Voluntária;412372,24;0,00
+Emerson Alencar Ramos Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;54319,33;0,00
+Emilia Ribeiro;31909413 - Despesa com Incentivo a Demissão Voluntária;167475,80;0,00
+Eni Batista;31909413 - Despesa com Incentivo a Demissão Voluntária;111956,21;0,00
+Enira Maria Garavelo;31909413 - Despesa com Incentivo a Demissão Voluntária;88039,22;0,00
+Ercilia Vicente de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;99415,62;0,00
+Eric Pedro Gonçalves;31909413 - Despesa com Incentivo a Demissão Voluntária;141492,63;0,00
+Estacio Aragao Chaves;31909413 - Despesa com Incentivo a Demissão Voluntária;120687,35;0,00
+Estela Bomfim;31909413 - Despesa com Incentivo a Demissão Voluntária;102047,07;0,00
+Estela Fabiao Maximiano;31909413 - Despesa com Incentivo a Demissão Voluntária;65787,24;0,00
+Ester da Silva Garcia;31909413 - Despesa com Incentivo a Demissão Voluntária;136941,22;0,00
+Etienne Alves da Silva Araujo;31909413 - Despesa com Incentivo a Demissão Voluntária;174689,47;0,00
+Euclides Antonio Luiz;31909413 - Despesa com Incentivo a Demissão Voluntária;169033,51;0,00
+Eufrasia da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;216179,53;0,00
+Eugenio Zanirato;31909413 - Despesa com Incentivo a Demissão Voluntária;76707,80;0,00
+Eunice Bonfim Pinto;31909413 - Despesa com Incentivo a Demissão Voluntária;190540,88;0,00
+Eunice Labanhare da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;88362,34;0,00
+Eunice Maria da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;187922,12;0,00
+Eunice Maria Vieira;31909413 - Despesa com Incentivo a Demissão Voluntária;120864,62;0,00
+Euripedes Rosa de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;134005,86;0,00
+Eva Aparecida da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;290837,59;0,00
+Evanira Marcelino;31909413 - Despesa com Incentivo a Demissão Voluntária;90012,61;0,00
+Evantuir Rodrigues;31909413 - Despesa com Incentivo a Demissão Voluntária;101047,23;0,00
+Everaldo Pereira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;172965,68;0,00
+Expedita Maria da Conceicao de Sousa;31909413 - Despesa com Incentivo a Demissão Voluntária;115320,26;0,00
+Ezequias dos Reis Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;101764,18;0,00
+Fabiana Oliveira Neves Duarte;31909413 - Despesa com Incentivo a Demissão Voluntária;61748,77;0,00
+Fabio da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;25565,18;0,00
+Fabio Francisco Matos;31909413 - Despesa com Incentivo a Demissão Voluntária;129664,64;0,00
+Fatima Aparecida Rizzo;31909413 - Despesa com Incentivo a Demissão Voluntária;169903,22;0,00
+Fatima Aparecida Rodrigues de Maria;31909413 - Despesa com Incentivo a Demissão Voluntária;117607,86;0,00
+Fatima Cristina de Sousa;31909413 - Despesa com Incentivo a Demissão Voluntária;144543,00;0,00
+Fatima de Lourdes Minari;31909413 - Despesa com Incentivo a Demissão Voluntária;161269,29;0,00
+Fatima Regina dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;196816,00;0,00
+Fatima Regina Zinatto;31909413 - Despesa com Incentivo a Demissão Voluntária;160841,64;0,00
+Felipe Lários de Souza Monteiro;31909413 - Despesa com Incentivo a Demissão Voluntária;19954,45;0,00
+Felipe Salata Braga;31909413 - Despesa com Incentivo a Demissão Voluntária;19721,92;0,00
+Fernanda da Silva Rodrigues Rossi;31909413 - Despesa com Incentivo a Demissão Voluntária;69528,78;0,00
+Fernando Betty Cresta;31909413 - Despesa com Incentivo a Demissão Voluntária;263793,39;0,00
+Fernando Borges de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;12535,89;0,00
+Fernando Kengy Taba;31909413 - Despesa com Incentivo a Demissão Voluntária;66335,74;0,00
+Fernando Lorenzi;31909413 - Despesa com Incentivo a Demissão Voluntária;307065,33;0,00
+Fernando Nitta Yoshisaki;31909413 - Despesa com Incentivo a Demissão Voluntária;165589,10;0,00
+Fernando Ruiz Rosario;31909413 - Despesa com Incentivo a Demissão Voluntária;21800,85;0,00
+Flavia Fernandes Rizzo Mörking;31909413 - Despesa com Incentivo a Demissão Voluntária;84094,12;0,00
+Floriceia Candida Brasileiro Xavier;31909413 - Despesa com Incentivo a Demissão Voluntária;94814,90;0,00
+Florisvaldo Pereira Dias;31909413 - Despesa com Incentivo a Demissão Voluntária;209136,83;0,00
+Francisca Aparecida Santos de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;121486,19;0,00
+Francisca Batista de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;272129,37;0,00
+Francisca Maria da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;74004,64;0,00
+Francisca Medeiros Silva Barbosa;31909413 - Despesa com Incentivo a Demissão Voluntária;201778,95;0,00
+Francisco Augusto de Azevedo;31909413 - Despesa com Incentivo a Demissão Voluntária;43750,11;0,00
+Francisco Barreto Neto;31909413 - Despesa com Incentivo a Demissão Voluntária;156665,79;0,00
+Francisco Candido Rodrigues Neto;31909413 - Despesa com Incentivo a Demissão Voluntária;132076,88;0,00
+Francisco Carlos Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;431334,81;0,00
+Francisco da Silva Ribeiro;31909413 - Despesa com Incentivo a Demissão Voluntária;147906,96;0,00
+Francisco de Paula Gois;31909413 - Despesa com Incentivo a Demissão Voluntária;160084,32;0,00
+Francisco dos Reis Faustino;31909413 - Despesa com Incentivo a Demissão Voluntária;79668,82;0,00
+Francisco Elias do Nascimento;31909413 - Despesa com Incentivo a Demissão Voluntária;186266,10;0,00
+Francisco Emolo;31909413 - Despesa com Incentivo a Demissão Voluntária;187418,23;0,00
+Francisco Inacio Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;153889,38;0,00
+Francisco Leite Duarte;31909413 - Despesa com Incentivo a Demissão Voluntária;99957,76;0,00
+Francisco Pereira Xavier;31909413 - Despesa com Incentivo a Demissão Voluntária;130860,26;0,00
+Francisco Vieira do Nascimento;31909413 - Despesa com Incentivo a Demissão Voluntária;97909,10;0,00
+Gabriel do Carmo Santana;31909413 - Despesa com Incentivo a Demissão Voluntária;6572,43;0,00
+Gedalva Pereira de Andrade;31909413 - Despesa com Incentivo a Demissão Voluntária;88712,34;0,00
+Gedson Lopes da Luz;31909413 - Despesa com Incentivo a Demissão Voluntária;102749,44;0,00
+Genoveva Rita de Moura;31909413 - Despesa com Incentivo a Demissão Voluntária;197366,12;0,00
+Georgenaldo Falcao;31909413 - Despesa com Incentivo a Demissão Voluntária;314682,67;0,00
+Georgina Moises da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;113140,03;0,00
+Geraldo Donizetti Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;179282,91;0,00
+Geraldo Itagiba de Andrade;31909413 - Despesa com Incentivo a Demissão Voluntária;257471,62;0,00
+Geraldo Jose da Rocha;31909413 - Despesa com Incentivo a Demissão Voluntária;135125,31;0,00
+Geroncio Genezio de Almeida;31909413 - Despesa com Incentivo a Demissão Voluntária;129609,93;0,00
+Gerson Batista da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;163198,86;0,00
+Gessimara de Sousa Fernandes;31909413 - Despesa com Incentivo a Demissão Voluntária;14790,84;0,00
+Gilberto Silva de Jesus;31909413 - Despesa com Incentivo a Demissão Voluntária;96167,96;0,00
+Gileno Sousa Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;127973,72;0,00
+Gilmar dos Santos Barberino;31909413 - Despesa com Incentivo a Demissão Voluntária;173692,47;0,00
+Gilson Cleto dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;126764,72;0,00
+Gilson Montezano;31909413 - Despesa com Incentivo a Demissão Voluntária;100132,44;0,00
+Giselda Angelina Oricchio;31909413 - Despesa com Incentivo a Demissão Voluntária;167900,43;0,00
+Gisele Ortoli;31909413 - Despesa com Incentivo a Demissão Voluntária;189332,31;0,00
+Gislaine Silva Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;367206,78;0,00
+Glaucia Maria de Lima Pinheiro;31909413 - Despesa com Incentivo a Demissão Voluntária;176500,49;0,00
+Glorete Aparecida Medeiros;31909413 - Despesa com Incentivo a Demissão Voluntária;131253,28;0,00
+Guilherme Ricardo de Araujo Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;170099,82;0,00
+Gustavo de Freitas Caetano;31909413 - Despesa com Incentivo a Demissão Voluntária;5467,12;0,00
+Harumi Shigenari;31909413 - Despesa com Incentivo a Demissão Voluntária;359004,68;0,00
+Helaine Conceicao Coelho da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;172736,62;0,00
+Helcio Ciconello;31909413 - Despesa com Incentivo a Demissão Voluntária;365550,06;0,00
+Helena Francisco Peres;31909413 - Despesa com Incentivo a Demissão Voluntária;197297,96;0,00
+Helenita Ferreira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;178725,67;0,00
+Helio de Toledo Gomes;31909413 - Despesa com Incentivo a Demissão Voluntária;156336,37;0,00
+Helio Santo Petra;31909413 - Despesa com Incentivo a Demissão Voluntária;147329,50;0,00
+Heloisa Brunow Ventura Di Nubila;31909413 - Despesa com Incentivo a Demissão Voluntária;104429,83;0,00
+Heloisa de Alvarenga de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;202818,94;0,00
+Heloisa de Oliveira Horikawa;31909413 - Despesa com Incentivo a Demissão Voluntária;156730,83;0,00
+Heloisa Helena B Pereira Morgado Belo;31909413 - Despesa com Incentivo a Demissão Voluntária;355115,84;0,00
+Heloisa Pereira Cassiano;31909413 - Despesa com Incentivo a Demissão Voluntária;411309,03;0,00
+Henrique de Conti Teixeira;31909413 - Despesa com Incentivo a Demissão Voluntária;5737,86;0,00
+Henrique Fragoso;31909413 - Despesa com Incentivo a Demissão Voluntária;166070,62;0,00
+Henriqueta Maria Gimenes Fernandes;31909413 - Despesa com Incentivo a Demissão Voluntária;353616,28;0,00
+Hercilia Maria Rosa;31909413 - Despesa com Incentivo a Demissão Voluntária;170004,43;0,00
+Herundina Costa de Santana;31909413 - Despesa com Incentivo a Demissão Voluntária;77212,56;0,00
+Hilda Lara Campos Parente;31909413 - Despesa com Incentivo a Demissão Voluntária;155280,79;0,00
+Hivair Luiz Leite;31909413 - Despesa com Incentivo a Demissão Voluntária;104538,87;0,00
+Iberê Miranda da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;94711,13;0,00
+Idalia Ines Bonani de Aguiar;31909413 - Despesa com Incentivo a Demissão Voluntária;243912,46;0,00
+Idalina Carlos da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;109795,81;0,00
+Idalina Cecilia Bibbo;31909413 - Despesa com Incentivo a Demissão Voluntária;82914,74;0,00
+Ieda Maria Razaboni Prado;31909413 - Despesa com Incentivo a Demissão Voluntária;292563,90;0,00
+Ilma Oliveira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;82304,33;0,00
+Ilmo Pereira de Brito;31909413 - Despesa com Incentivo a Demissão Voluntária;166616,09;0,00
+Ilza da Silva Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;92016,96;0,00
+Ina Silvia dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;160973,99;0,00
+Ines Andrade Cardoso Chefel;31909413 - Despesa com Incentivo a Demissão Voluntária;110763,74;0,00
+Ines Deluca do Nascimento;31909413 - Despesa com Incentivo a Demissão Voluntária;194738,70;0,00
+Inez Dias de Moraes;31909413 - Despesa com Incentivo a Demissão Voluntária;127453,31;0,00
+Inocencia da Silva Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;111788,94;0,00
+Iolanda Aparecida Rufini;31909413 - Despesa com Incentivo a Demissão Voluntária;391577,02;0,00
+Ione Beatriz Banheza;31909413 - Despesa com Incentivo a Demissão Voluntária;282586,88;0,00
+Ionice Aparecida Santos de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;122434,46;0,00
+Iracema Baptista Jorge;31909413 - Despesa com Incentivo a Demissão Voluntária;407846,57;0,00
+Iraci Silva de Carvalho;31909413 - Despesa com Incentivo a Demissão Voluntária;90431,90;0,00
+Iracy Machado Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;35600,18;0,00
+Irany Cantao dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;168354,54;0,00
+Irany Terezinha Placedino Emidio;31909413 - Despesa com Incentivo a Demissão Voluntária;258702,98;0,00
+Irene Coutinho Nunes;31909413 - Despesa com Incentivo a Demissão Voluntária;159851,67;0,00
+Irene Maria Gouvea;31909413 - Despesa com Incentivo a Demissão Voluntária;137519,96;0,00
+Irene Miguel dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;163133,00;0,00
+Iria Raimunda da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;104553,95;0,00
+Irineu Jose Pombani;31909413 - Despesa com Incentivo a Demissão Voluntária;252787,17;0,00
+Iris Borges Vianna;31909413 - Despesa com Incentivo a Demissão Voluntária;86225,66;0,00
+Isabel Aparecida Barbosa dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;221604,71;0,00
+Isabel Aurelia Lisboa;31909413 - Despesa com Incentivo a Demissão Voluntária;328026,96;0,00
+Isabel Barbosa dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;120807,61;0,00
+Isabel Batista de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;93866,04;0,00
+Isabel Cristina Colombo;31909413 - Despesa com Incentivo a Demissão Voluntária;255587,38;0,00
+Isabel Rosani Constantino;31909413 - Despesa com Incentivo a Demissão Voluntária;212699,59;0,00
+Ismael Ferreira Medeiros;31909413 - Despesa com Incentivo a Demissão Voluntária;60756,38;0,00
+Isolina Goncalves da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;101268,01;0,00
+Israel Egidio;31909413 - Despesa com Incentivo a Demissão Voluntária;53569,54;0,00
+Ivalda Henrique de Albuquerque Corrêa de Melo;31909413 - Despesa com Incentivo a Demissão Voluntária;78317,53;0,00
+Ivandete da Silva Lessa;31909413 - Despesa com Incentivo a Demissão Voluntária;134144,81;0,00
+Ivanete Ramos;31909413 - Despesa com Incentivo a Demissão Voluntária;230428,08;0,00
+Ivani Lemos de Souza Conde;31909413 - Despesa com Incentivo a Demissão Voluntária;303091,77;0,00
+Ivani Lomeu Bastos;31909413 - Despesa com Incentivo a Demissão Voluntária;321269,83;0,00
+Ivani Pinheiro Travagli;31909413 - Despesa com Incentivo a Demissão Voluntária;60844,15;0,00
+Ivanilda Maria de Padua Andreoletti;31909413 - Despesa com Incentivo a Demissão Voluntária;162769,06;0,00
+Ivanilda Soares da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;318664,62;0,00
+Ivanilde Novaes Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;203418,58;0,00
+Ivete de Siqueira Mello;31909413 - Despesa com Incentivo a Demissão Voluntária;252389,69;0,00
+Ivete Parra de Andrade;31909413 - Despesa com Incentivo a Demissão Voluntária;172323,36;0,00
+Ivo de Macedo Gomes;31909413 - Despesa com Incentivo a Demissão Voluntária;109938,35;0,00
+Ivone Aparecida Soares Juanes;31909413 - Despesa com Incentivo a Demissão Voluntária;296493,02;0,00
+Ivone Nogueira de Lima Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;203574,43;0,00
+Ivone Robles;31909413 - Despesa com Incentivo a Demissão Voluntária;318385,14;0,00
+Ivone Zarotti Rodrigues;31909413 - Despesa com Incentivo a Demissão Voluntária;31067,25;0,00
+Ivoni Sabina de Jesus;31909413 - Despesa com Incentivo a Demissão Voluntária;120761,97;0,00
+Izabel Lopes da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;177927,48;0,00
+Jacinta Nobre Araujo Jacovoni;31909413 - Despesa com Incentivo a Demissão Voluntária;112439,11;0,00
+Jader Prates Silveira;31909413 - Despesa com Incentivo a Demissão Voluntária;159879,20;0,00
+Jair Gomes da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;138794,54;0,00
+Jair Rosa da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;253661,97;0,00
+Jair Valerio da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;166811,11;0,00
+Jair Vitorio Arthur;31909413 - Despesa com Incentivo a Demissão Voluntária;153342,48;0,00
+Jairo Alves de Jesus;31909413 - Despesa com Incentivo a Demissão Voluntária;189327,26;0,00
+Jandira Pedretti da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;135202,56;0,00
+Jane Amaro Maciel;31909413 - Despesa com Incentivo a Demissão Voluntária;277389,86;0,00
+Janete Ferreira Rodrigues dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;142098,13;0,00
+Jânio Pedro Martins de Freitas;31909413 - Despesa com Incentivo a Demissão Voluntária;97455,06;0,00
+Jasiel Cordeiro da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;114718,40;0,00
+Jeane Conceicao Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;104604,58;0,00
+Jefferson dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;142568,90;0,00
+Jefferson Gonçalves Batista;31909413 - Despesa com Incentivo a Demissão Voluntária;14800,38;0,00
+Jessica Peixinho Scortecci de Paula;31909413 - Despesa com Incentivo a Demissão Voluntária;10003,64;0,00
+Joana Aparecida Colbari;31909413 - Despesa com Incentivo a Demissão Voluntária;170461,90;0,00
+Joana Azevedo do Nascimento;31909413 - Despesa com Incentivo a Demissão Voluntária;135063,92;0,00
+Joana Damasceno Machado Gomes;31909413 - Despesa com Incentivo a Demissão Voluntária;101481,50;0,00
+Joana de Almeida Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;121350,33;0,00
+Joana Paulino;31909413 - Despesa com Incentivo a Demissão Voluntária;121905,01;0,00
+Joao Afonso de Araujo;31909413 - Despesa com Incentivo a Demissão Voluntária;95605,41;0,00
+Joao Alberto Neves;31909413 - Despesa com Incentivo a Demissão Voluntária;193321,34;0,00
+Joao Antonio Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;99476,68;0,00
+Joao Aparecido Correa;31909413 - Despesa com Incentivo a Demissão Voluntária;193456,99;0,00
+João Batista de Carvalho;31909413 - Despesa com Incentivo a Demissão Voluntária;98940,64;0,00
+Joao Batista Rosa;31909413 - Despesa com Incentivo a Demissão Voluntária;109685,08;0,00
+Joao Batista Sertorio;31909413 - Despesa com Incentivo a Demissão Voluntária;147045,55;0,00
+João Carlos Carvalhan;31909413 - Despesa com Incentivo a Demissão Voluntária;76371,97;0,00
+Joao Carlos de Matos;31909413 - Despesa com Incentivo a Demissão Voluntária;126099,16;0,00
+Joao Carmo Guedes de Moura;31909413 - Despesa com Incentivo a Demissão Voluntária;204269,97;0,00
+Joao Claudino Xavier;31909413 - Despesa com Incentivo a Demissão Voluntária;157085,76;0,00
+Joao da Cruz;31909413 - Despesa com Incentivo a Demissão Voluntária;94531,12;0,00
+Joao de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;101906,79;0,00
+Joao do Bonfim Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;157207,43;0,00
+Joao Frederico Turati;31909413 - Despesa com Incentivo a Demissão Voluntária;144477,92;0,00
+Joao Jair Dionisio;31909413 - Despesa com Incentivo a Demissão Voluntária;355968,04;0,00
+Joao Luiz Notariano;31909413 - Despesa com Incentivo a Demissão Voluntária;313343,59;0,00
+João Norberto Catarino;31909413 - Despesa com Incentivo a Demissão Voluntária;186955,70;0,00
+Joao Odemir Salvador;31909413 - Despesa com Incentivo a Demissão Voluntária;349081,43;0,00
+Joao Paulo Ribeiro;31909413 - Despesa com Incentivo a Demissão Voluntária;173823,38;0,00
+Joao Pereira dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;160569,50;0,00
+Joao Pereira Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;214933,04;0,00
+Joaquim Alves Batista;31909413 - Despesa com Incentivo a Demissão Voluntária;93756,26;0,00
+Joaquim Dionisio Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;179155,68;0,00
+Joaquim Ferreira Gomes;31909413 - Despesa com Incentivo a Demissão Voluntária;138453,02;0,00
+Joel Caitano;31909413 - Despesa com Incentivo a Demissão Voluntária;143020,88;0,00
+Joel de Souza Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;110414,57;0,00
+Joel Heleodoro de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;73798,74;0,00
+Jonas Afonso Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;74609,86;0,00
+Jonatas Alves;31909413 - Despesa com Incentivo a Demissão Voluntária;77307,33;0,00
+Jonatas Cristian Rodrigues;31909413 - Despesa com Incentivo a Demissão Voluntária;19713,99;0,00
+Jordelino de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;221145,34;0,00
+Jorge Luiz Massahiro Chinen;31909413 - Despesa com Incentivo a Demissão Voluntária;209401,58;0,00
+Jorge Manuel das Neves Bronze;31909413 - Despesa com Incentivo a Demissão Voluntária;182825,16;0,00
+Jorge Nelson Goncalves;31909413 - Despesa com Incentivo a Demissão Voluntária;107231,24;0,00
+Jose Abelirio de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;81855,76;0,00
+Jose Alves Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;94042,72;0,00
+José Alvino dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;190663,43;0,00
+Jose Antonio Bueno;31909413 - Despesa com Incentivo a Demissão Voluntária;118505,13;0,00
+Jose Antonio da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;260422,46;0,00
+Jose Antonio Martins;31909413 - Despesa com Incentivo a Demissão Voluntária;437956,14;0,00
+Jose Antonio Rodrigues;31909413 - Despesa com Incentivo a Demissão Voluntária;97927,27;0,00
+Jose Antonio Volpato;31909413 - Despesa com Incentivo a Demissão Voluntária;95328,56;0,00
+Jose Aparecido de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;242728,89;0,00
+Jose Augusto Ferraz Branco;31909413 - Despesa com Incentivo a Demissão Voluntária;234594,79;0,00
+Jose Bernardes;31909413 - Despesa com Incentivo a Demissão Voluntária;117377,22;0,00
+Jose Bonifacio Gomes;31909413 - Despesa com Incentivo a Demissão Voluntária;76684,38;0,00
+Jose Campos de Araujo;31909413 - Despesa com Incentivo a Demissão Voluntária;112458,34;0,00
+Jose Carlito Camargos;31909413 - Despesa com Incentivo a Demissão Voluntária;144696,66;0,00
+Jose Carlos da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;163232,29;0,00
+Jose Carlos Domingos da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;162111,38;0,00
+Jose Carlos Flor;31909413 - Despesa com Incentivo a Demissão Voluntária;158476,45;0,00
+Jose Carlos Guimaraes;31909413 - Despesa com Incentivo a Demissão Voluntária;140620,08;0,00
+Jose Carlos Martinho Ferraz;31909413 - Despesa com Incentivo a Demissão Voluntária;240338,88;0,00
+Jose Claudio Ferreira Gamez;31909413 - Despesa com Incentivo a Demissão Voluntária;157613,75;0,00
+Jose Claudio Valerio;31909413 - Despesa com Incentivo a Demissão Voluntária;114217,10;0,00
+Jose Costa;31909413 - Despesa com Incentivo a Demissão Voluntária;92320,24;0,00
+José Costa de Oliveira Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;336582,12;0,00
+José de Sousa Sobrinho;31909413 - Despesa com Incentivo a Demissão Voluntária;143191,04;0,00
+Jose de Souza Araujo;31909413 - Despesa com Incentivo a Demissão Voluntária;131133,29;0,00
+Jose Devanir Luiz;31909413 - Despesa com Incentivo a Demissão Voluntária;96429,23;0,00
+Jose Divino de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;158590,59;0,00
+Jose Evangelista de Santana;31909413 - Despesa com Incentivo a Demissão Voluntária;114642,21;0,00
+Jose Ferreira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;154136,09;0,00
+Jose Galvao da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;159264,93;0,00
+Jose Geraldo Catarino;31909413 - Despesa com Incentivo a Demissão Voluntária;334706,03;0,00
+Jose Geraldo Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;213644,98;0,00
+Jose Geraldo Teixeira;31909413 - Despesa com Incentivo a Demissão Voluntária;118472,98;0,00
+Jose Gil Pereira dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;240611,15;0,00
+Jose Gomes dos Santos Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;103433,41;0,00
+Jose Gomes Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;152822,30;0,00
+Jose Goncalves Neto;31909413 - Despesa com Incentivo a Demissão Voluntária;170322,09;0,00
+Jose Honorato Souza Almeida;31909413 - Despesa com Incentivo a Demissão Voluntária;96690,58;0,00
+Jose Isidoro da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;139294,37;0,00
+Jose Lino de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;142382,58;0,00
+Jose Luiz Aziani;31909413 - Despesa com Incentivo a Demissão Voluntária;209115,43;0,00
+Jose Luiz Cunha Carneiro;31909413 - Despesa com Incentivo a Demissão Voluntária;448856,37;0,00
+Jose Luiz de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;48414,16;0,00
+Jose Luiz Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;55621,55;0,00
+Jose Luiz Martins de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;165750,04;0,00
+Jose Luiz Ribeiro;31909413 - Despesa com Incentivo a Demissão Voluntária;270492,72;0,00
+Jose Luiz Santomo;31909413 - Despesa com Incentivo a Demissão Voluntária;151667,12;0,00
+Jose Marcos de Almeida;31909413 - Despesa com Incentivo a Demissão Voluntária;182037,86;0,00
+Jose Mario da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;187661,79;0,00
+Jose Martins;31909413 - Despesa com Incentivo a Demissão Voluntária;141393,21;0,00
+Jose Mauricio da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;164245,91;0,00
+Jose Menezes dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;76959,36;0,00
+Jose Moraes Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;150336,23;0,00
+Jose Nilton Alves de Seles;31909413 - Despesa com Incentivo a Demissão Voluntária;124412,33;0,00
+Jose Nilton Correia;31909413 - Despesa com Incentivo a Demissão Voluntária;159870,25;0,00
+Jose Oldack de Almeida;31909413 - Despesa com Incentivo a Demissão Voluntária;129294,49;0,00
+Jose Omar Campos;31909413 - Despesa com Incentivo a Demissão Voluntária;215047,64;0,00
+Jose Paulino Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;164963,44;0,00
+Jose Paulo de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;141573,15;0,00
+Jose Pires Alves Sobrinho;31909413 - Despesa com Incentivo a Demissão Voluntária;124823,21;0,00
+Jose Reinaldo Fialho;31909413 - Despesa com Incentivo a Demissão Voluntária;157197,53;0,00
+Jose Roberto da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;153535,97;0,00
+Jose Roberto Monteiro;31909413 - Despesa com Incentivo a Demissão Voluntária;157290,64;0,00
+Jose Roberto Pelissari;31909413 - Despesa com Incentivo a Demissão Voluntária;186243,41;0,00
+Jose Roberto Rios;31909413 - Despesa com Incentivo a Demissão Voluntária;163045,85;0,00
+Jose Roberto Verissimo;31909413 - Despesa com Incentivo a Demissão Voluntária;235513,48;0,00
+Jose Sanches;31909413 - Despesa com Incentivo a Demissão Voluntária;144597,29;0,00
+Jose Sebastiao Rodeguer;31909413 - Despesa com Incentivo a Demissão Voluntária;78298,92;0,00
+Jose Seminate Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;291549,50;0,00
+Jose Severino Ferreira Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;163069,86;0,00
+Jose Soares de Oliveira Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;109464,34;0,00
+Jose Soares dos Santos Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;179405,31;0,00
+Jose Tadeu Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;122010,93;0,00
+Jose Tadeu Garcia Coelho;31909413 - Despesa com Incentivo a Demissão Voluntária;197146,13;0,00
+Jose Tereza Costa;31909413 - Despesa com Incentivo a Demissão Voluntária;144922,04;0,00
+Jose Wilson do Nascimento;31909413 - Despesa com Incentivo a Demissão Voluntária;100028,43;0,00
+Josefa Maria da Conceicao;31909413 - Despesa com Incentivo a Demissão Voluntária;99864,74;0,00
+Joseilda Mauricio da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;97354,97;0,00
+Joselito Duda;31909413 - Despesa com Incentivo a Demissão Voluntária;109643,62;0,00
+Josilda Dias Cardoso;31909413 - Despesa com Incentivo a Demissão Voluntária;53449,87;0,00
+Josue Pessoa de Araujo;31909413 - Despesa com Incentivo a Demissão Voluntária;191351,47;0,00
+Jucymeire Borges Nogueira;31909413 - Despesa com Incentivo a Demissão Voluntária;62538,29;0,00
+Judith Aparecida Ferreira de Souza Ramos;31909413 - Despesa com Incentivo a Demissão Voluntária;161814,06;0,00
+Judith Dias Correa;31909413 - Despesa com Incentivo a Demissão Voluntária;178813,38;0,00
+Juliana Ferreira Bernardo;31909413 - Despesa com Incentivo a Demissão Voluntária;5779,89;0,00
+Juliana Trevisan dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;24882,77;0,00
+Juliane Pagamice de Sant'Anna;31909413 - Despesa com Incentivo a Demissão Voluntária;20177,90;0,00
+Julieta Helena Scialfa Falcao;31909413 - Despesa com Incentivo a Demissão Voluntária;195958,39;0,00
+Julio Cesar Costa;31909413 - Despesa com Incentivo a Demissão Voluntária;141191,74;0,00
+Julio Costa Gonzalez;31909413 - Despesa com Incentivo a Demissão Voluntária;271469,55;0,00
+Julio Silva Tito;31909413 - Despesa com Incentivo a Demissão Voluntária;96865,93;0,00
+Junko Oura;31909413 - Despesa com Incentivo a Demissão Voluntária;360523,88;0,00
+Juracema Francisca Pereira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;160839,94;0,00
+Jurema Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;171017,54;0,00
+Karina Mitie Yoshimoto;31909413 - Despesa com Incentivo a Demissão Voluntária;34514,69;0,00
+Kathia Helena Takiuti;31909413 - Despesa com Incentivo a Demissão Voluntária;38483,74;0,00
+Katia de Bonis;31909413 - Despesa com Incentivo a Demissão Voluntária;102553,16;0,00
+Katia Teixeira;31909413 - Despesa com Incentivo a Demissão Voluntária;88204,32;0,00
+Laercio Evangelista dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;153273,62;0,00
+Laercio Goncalves dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;120631,42;0,00
+Lailton Pinto Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;162731,50;0,00
+Laudeniz da Nobrega Fidelis;31909413 - Despesa com Incentivo a Demissão Voluntária;169444,62;0,00
+Laura Aparecida de Paula;31909413 - Despesa com Incentivo a Demissão Voluntária;170634,57;0,00
+Lazara Maria Marques Ravaglio;31909413 - Despesa com Incentivo a Demissão Voluntária;303875,24;0,00
+Lazaro Jose Barbosa;31909413 - Despesa com Incentivo a Demissão Voluntária;133093,44;0,00
+Lazaro Jose de Resende;31909413 - Despesa com Incentivo a Demissão Voluntária;161193,96;0,00
+Leandro Firmino Cleto;31909413 - Despesa com Incentivo a Demissão Voluntária;69666,63;0,00
+Leandro Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;42661,21;0,00
+Leandro Romualdo;31909413 - Despesa com Incentivo a Demissão Voluntária;334403,61;0,00
+Leda Aparecida de Oliveira Silva Cardoso;31909413 - Despesa com Incentivo a Demissão Voluntária;155674,79;0,00
+Leila Peralta Areco;31909413 - Despesa com Incentivo a Demissão Voluntária;250657,41;0,00
+Lenilda Almeida Valenca Reis;31909413 - Despesa com Incentivo a Demissão Voluntária;157314,67;0,00
+Lenise Maria Bridi Turra;31909413 - Despesa com Incentivo a Demissão Voluntária;390099,10;0,00
+Leomina de Jesus Silva de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;94250,28;0,00
+Leonice de Almeida Matos;31909413 - Despesa com Incentivo a Demissão Voluntária;62858,69;0,00
+Leonice Silverio Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;200867,15;0,00
+Leonor Aparecida Gabriela Fernandes;31909413 - Despesa com Incentivo a Demissão Voluntária;101913,21;0,00
+Leontina Ferreira de Arante;31909413 - Despesa com Incentivo a Demissão Voluntária;101794,16;0,00
+Leormando Fortunato Dornelas;31909413 - Despesa com Incentivo a Demissão Voluntária;180299,72;0,00
+Licio Firmino Junior;31909413 - Despesa com Incentivo a Demissão Voluntária;192923,38;0,00
+Ligia Maria Custodio Correa Sonnewend;31909413 - Despesa com Incentivo a Demissão Voluntária;304958,96;0,00
+Liliam D'Aquino Tavano;31909413 - Despesa com Incentivo a Demissão Voluntária;424035,74;0,00
+Lilian Calabró dos Santos Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;24808,88;0,00
+Liliane Maria Salgado de Castro;31909413 - Despesa com Incentivo a Demissão Voluntária;237395,71;0,00
+Liliane Miyagi Kobayashi;31909413 - Despesa com Incentivo a Demissão Voluntária;260764,79;0,00
+Lizete Alves de Souza Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;96306,20;0,00
+Lourdes da Silva Bussi;31909413 - Despesa com Incentivo a Demissão Voluntária;376503,54;0,00
+Lourdes de Jesus da Silva Castania;31909413 - Despesa com Incentivo a Demissão Voluntária;153000,26;0,00
+Lourdes Moura Silva Ramos;31909413 - Despesa com Incentivo a Demissão Voluntária;107394,10;0,00
+Luana Machado;31909413 - Despesa com Incentivo a Demissão Voluntária;39671,99;0,00
+Lucas Domingues Galli;31909413 - Despesa com Incentivo a Demissão Voluntária;23855,40;0,00
+Lucas Fernandes de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;60943,99;0,00
+Luci Ebisui;31909413 - Despesa com Incentivo a Demissão Voluntária;385628,66;0,00
+Lucia de Lourdes Fucherberger;31909413 - Despesa com Incentivo a Demissão Voluntária;86457,43;0,00
+Lucia dos Santos Pains;31909413 - Despesa com Incentivo a Demissão Voluntária;82000,73;0,00
+Lucia Helena Pacheco;31909413 - Despesa com Incentivo a Demissão Voluntária;140563,96;0,00
+Lucia Helena Silva das Merces;31909413 - Despesa com Incentivo a Demissão Voluntária;38155,45;0,00
+Lucia Maria Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;147025,70;0,00
+Luciano Souto Correia;31909413 - Despesa com Incentivo a Demissão Voluntária;162690,68;0,00
+Lucilda Buzato Milsoni;31909413 - Despesa com Incentivo a Demissão Voluntária;114967,66;0,00
+Lucinda de Brito da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;207944,89;0,00
+Luis Alberto Franco;31909413 - Despesa com Incentivo a Demissão Voluntária;84811,92;0,00
+Luis Antonio de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;222627,26;0,00
+Luis Aparecido Ticianeli;31909413 - Despesa com Incentivo a Demissão Voluntária;227047,10;0,00
+Luis Carlos Ramos Tinoco;31909413 - Despesa com Incentivo a Demissão Voluntária;54702,33;0,00
+Luis Roberto Pereira de Carvalho;31909413 - Despesa com Incentivo a Demissão Voluntária;160423,74;0,00
+Luiz Angelo de Barros;31909413 - Despesa com Incentivo a Demissão Voluntária;200388,92;0,00
+Luiz Antonio dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;101906,51;0,00
+Luiz Antonio Maria;31909413 - Despesa com Incentivo a Demissão Voluntária;80006,07;0,00
+Luiz Antonio Rizzi;31909413 - Despesa com Incentivo a Demissão Voluntária;262487,64;0,00
+Luiz Antonio Rocha;31909413 - Despesa com Incentivo a Demissão Voluntária;125671,37;0,00
+Luiz Antonio Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;43067,88;0,00
+Luiz Antonio Zanchetta;31909413 - Despesa com Incentivo a Demissão Voluntária;309631,28;0,00
+Luiz Carlos Alves;31909413 - Despesa com Incentivo a Demissão Voluntária;82120,67;0,00
+Luiz Carlos Alves de Paiva;31909413 - Despesa com Incentivo a Demissão Voluntária;180297,94;0,00
+Luiz Carlos Aparecido Matheus;31909413 - Despesa com Incentivo a Demissão Voluntária;540660,23;0,00
+Luiz Carlos Fabre;31909413 - Despesa com Incentivo a Demissão Voluntária;318303,73;0,00
+Luiz Carlos Ferreira dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;88670,66;0,00
+Luiz Carlos Goncalves;31909413 - Despesa com Incentivo a Demissão Voluntária;95895,83;0,00
+Luiz Carlos Molina Torres;31909413 - Despesa com Incentivo a Demissão Voluntária;328536,21;0,00
+Luiz Carlos Pereira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;140946,68;0,00
+Luiz Celso Dias;31909413 - Despesa com Incentivo a Demissão Voluntária;179674,30;0,00
+Luiz de Melo Martins;31909413 - Despesa com Incentivo a Demissão Voluntária;73582,35;0,00
+Luiz Fernando Ferreira de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;166000,04;0,00
+Luiz Marcelo Rolan;31909413 - Despesa com Incentivo a Demissão Voluntária;8289,49;0,00
+Luiz Margutti Neto;31909413 - Despesa com Incentivo a Demissão Voluntária;427167,40;0,00
+Luiz Marques da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;103804,36;0,00
+Luiz Paulo Matas;31909413 - Despesa com Incentivo a Demissão Voluntária;169418,06;0,00
+Luiz Roberto Silva Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;157746,14;0,00
+Luiz Tadeu Bernardo;31909413 - Despesa com Incentivo a Demissão Voluntária;246765,82;0,00
+Luiza do Prado Pastoreli;31909413 - Despesa com Incentivo a Demissão Voluntária;95255,50;0,00
+Luiza Ines Raspantini Salvador;31909413 - Despesa com Incentivo a Demissão Voluntária;274661,79;0,00
+Luiza Quirino Kerpen;31909413 - Despesa com Incentivo a Demissão Voluntária;199953,68;0,00
+Luzia Dal Secco de Figueiredo;31909413 - Despesa com Incentivo a Demissão Voluntária;319620,54;0,00
+Luzia de Oliveira Valderrama;31909413 - Despesa com Incentivo a Demissão Voluntária;119815,66;0,00
+Luzia Issuzu Toyoda;31909413 - Despesa com Incentivo a Demissão Voluntária;273647,67;0,00
+Lyncoln da Silva Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;35436,39;0,00
+Macionilo Saturnino de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;103164,03;0,00
+Madalena de Almeida Luz;31909413 - Despesa com Incentivo a Demissão Voluntária;88969,83;0,00
+Madalena de Fatima Muller;31909413 - Despesa com Incentivo a Demissão Voluntária;99938,91;0,00
+Madalena Martins;31909413 - Despesa com Incentivo a Demissão Voluntária;283325,07;0,00
+Magali Fugihara Nakano;31909413 - Despesa com Incentivo a Demissão Voluntária;280228,81;0,00
+Magali Poli Fernandes Rizzo;31909413 - Despesa com Incentivo a Demissão Voluntária;148705,56;0,00
+Magda Tadeu Moura dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;108964,22;0,00
+Manoel Cirilo Moreira;31909413 - Despesa com Incentivo a Demissão Voluntária;127877,64;0,00
+Manoel Euclides dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;196210,75;0,00
+Manoel Gomes Correia;31909413 - Despesa com Incentivo a Demissão Voluntária;211233,46;0,00
+Manoel Gomes da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;105048,12;0,00
+Manoel Pinheiro dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;160085,04;0,00
+Manoel Ribeiro Costa;31909413 - Despesa com Incentivo a Demissão Voluntária;178713,58;0,00
+Manoel Santos Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;202448,21;0,00
+Manoel Vitalino da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;82226,38;0,00
+Manoelina Rodrigues dos Reis;31909413 - Despesa com Incentivo a Demissão Voluntária;128293,19;0,00
+Manuel Bispo dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;179007,16;0,00
+Mara Aparecida Fernandes;31909413 - Despesa com Incentivo a Demissão Voluntária;168801,60;0,00
+Marcelo Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;217186,88;0,00
+Marcia Aparecida Machado;31909413 - Despesa com Incentivo a Demissão Voluntária;192944,76;0,00
+Marcia Delbon Jorge;31909413 - Despesa com Incentivo a Demissão Voluntária;269743,37;0,00
+Marcia Elisa Garcia de Grandi;31909413 - Despesa com Incentivo a Demissão Voluntária;372280,09;0,00
+Marcia Ippolito Bueno de Camargo;31909413 - Despesa com Incentivo a Demissão Voluntária;328231,14;0,00
+Marcia Pia Fernandes;31909413 - Despesa com Incentivo a Demissão Voluntária;205016,60;0,00
+Marcia Pilnik;31909413 - Despesa com Incentivo a Demissão Voluntária;359200,53;0,00
+Marcia Solange Gomes;31909413 - Despesa com Incentivo a Demissão Voluntária;167212,90;0,00
+Marcio Ribeiro do Valle;31909413 - Despesa com Incentivo a Demissão Voluntária;198427,76;0,00
+Marco Antonio Carvalho de Brito;31909413 - Despesa com Incentivo a Demissão Voluntária;203186,07;0,00
+Marco Antonio Florencio;31909413 - Despesa com Incentivo a Demissão Voluntária;175153,39;0,00
+Marco Antonio Negrete Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;177386,17;0,00
+Marcos Alves da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;219655,09;0,00
+Marcos Antonio de Aquino;31909413 - Despesa com Incentivo a Demissão Voluntária;206565,93;0,00
+Marcos Antonio Figueiro;31909413 - Despesa com Incentivo a Demissão Voluntária;122232,02;0,00
+Marcos Gonzaga da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;188603,10;0,00
+Marcos Melo de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;40104,03;0,00
+Marcus de Barros;31909413 - Despesa com Incentivo a Demissão Voluntária;223116,28;0,00
+Margaret de Agostine;31909413 - Despesa com Incentivo a Demissão Voluntária;303000,36;0,00
+Margarida Maria Hypolito da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;110997,69;0,00
+Mari D'Alva Toso Barberi;31909413 - Despesa com Incentivo a Demissão Voluntária;153582,26;0,00
+Maria Adelaide Alves Mestriner;31909413 - Despesa com Incentivo a Demissão Voluntária;377065,69;0,00
+Maria Adriano Ribeiro;31909413 - Despesa com Incentivo a Demissão Voluntária;109435,04;0,00
+Maria Alice de Franca Rangel Rebello;31909413 - Despesa com Incentivo a Demissão Voluntária;352591,54;0,00
+Maria Alice Soares de Castro;31909413 - Despesa com Incentivo a Demissão Voluntária;129875,16;0,00
+Maria Amelia Guerra Kul;31909413 - Despesa com Incentivo a Demissão Voluntária;139135,07;0,00
+Maria Andrade Leite;31909413 - Despesa com Incentivo a Demissão Voluntária;169920,44;0,00
+Maria Angela de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;97827,45;0,00
+Maria Angela Ferraro de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;164740,76;0,00
+Maria Angela Lipparelli Piovesan;31909413 - Despesa com Incentivo a Demissão Voluntária;321185,45;0,00
+Maria Aparecida Bernardo;31909413 - Despesa com Incentivo a Demissão Voluntária;173936,64;0,00
+Maria Aparecida Bezerra Ayello;31909413 - Despesa com Incentivo a Demissão Voluntária;388381,04;0,00
+Maria Aparecida da Rocha;31909413 - Despesa com Incentivo a Demissão Voluntária;115431,24;0,00
+Maria Aparecida da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;234662,83;0,00
+Maria Aparecida da Silva Ramos;31909413 - Despesa com Incentivo a Demissão Voluntária;294908,33;0,00
+Maria Aparecida de Brito Ramos;31909413 - Despesa com Incentivo a Demissão Voluntária;160697,60;0,00
+Maria Aparecida de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;163499,11;0,00
+Maria Aparecida dos Reis Antonio;31909413 - Despesa com Incentivo a Demissão Voluntária;154265,50;0,00
+Maria Aparecida dos Santos Martins;31909413 - Despesa com Incentivo a Demissão Voluntária;155527,99;0,00
+Maria Aparecida Esteves Gomides;31909413 - Despesa com Incentivo a Demissão Voluntária;85495,42;0,00
+Maria Aparecida Figueiredo Aranha;31909413 - Despesa com Incentivo a Demissão Voluntária;125695,04;0,00
+Maria Aparecida Florencio Pinto;31909413 - Despesa com Incentivo a Demissão Voluntária;114645,85;0,00
+Maria Aparecida Giammusso Gomes;31909413 - Despesa com Incentivo a Demissão Voluntária;212387,85;0,00
+Maria Aparecida Joaquim Cicillini;31909413 - Despesa com Incentivo a Demissão Voluntária;90799,15;0,00
+Maria Aparecida Leme;31909413 - Despesa com Incentivo a Demissão Voluntária;278137,62;0,00
+Maria Aparecida Lira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;105990,11;0,00
+Maria Aparecida Lopes da Rocha;31909413 - Despesa com Incentivo a Demissão Voluntária;87613,28;0,00
+Maria Aparecida Maielli Travalini;31909413 - Despesa com Incentivo a Demissão Voluntária;257070,26;0,00
+Maria Aparecida Mendes de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;348384,77;0,00
+Maria Aparecida Oliveira Silva Elias;31909413 - Despesa com Incentivo a Demissão Voluntária;262788,15;0,00
+Maria Aparecida Pascarelli;31909413 - Despesa com Incentivo a Demissão Voluntária;86443,15;0,00
+Maria Aparecida Pereira de Araujo;31909413 - Despesa com Incentivo a Demissão Voluntária;92391,40;0,00
+Maria Aparecida Pinto de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;234492,50;0,00
+Maria Aparecida Pires;31909413 - Despesa com Incentivo a Demissão Voluntária;127116,66;0,00
+Maria Aparecida Rodrigues Vitor;31909413 - Despesa com Incentivo a Demissão Voluntária;62166,29;0,00
+Maria Aparecida Sant Anna da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;237529,62;0,00
+Maria Aparecida Simas Biason;31909413 - Despesa com Incentivo a Demissão Voluntária;100889,87;0,00
+Maria Aparecida Simoes;31909413 - Despesa com Incentivo a Demissão Voluntária;154618,46;0,00
+Maria Auxiliadora da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;100790,98;0,00
+Maria Auxiliadora de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;264065,48;0,00
+Maria Auxiliadora de Paiva Trigo;31909413 - Despesa com Incentivo a Demissão Voluntária;82195,44;0,00
+Maria Bernadete da Silva Dantas;31909413 - Despesa com Incentivo a Demissão Voluntária;187104,89;0,00
+Maria Bernadete Tanganelli Piotto;31909413 - Despesa com Incentivo a Demissão Voluntária;424479,70;0,00
+Maria Carolina Bertochi Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;101335,88;0,00
+Maria Cecilia Gustavo Silvestre;31909413 - Despesa com Incentivo a Demissão Voluntária;163514,40;0,00
+Maria Cecilia Ribeiro Teixeira Brochado;31909413 - Despesa com Incentivo a Demissão Voluntária;394920,81;0,00
+Maria Cecilia Silveira;31909413 - Despesa com Incentivo a Demissão Voluntária;162605,94;0,00
+Maria Celeste Longatto da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;201844,28;0,00
+Maria Celia Amaral;31909413 - Despesa com Incentivo a Demissão Voluntária;354926,50;0,00
+Maria Celia dos Santos Guerra;31909413 - Despesa com Incentivo a Demissão Voluntária;195946,89;0,00
+Maria Celisa de Mattos Zapparoli;31909413 - Despesa com Incentivo a Demissão Voluntária;367938,10;0,00
+Maria Cenaide da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;162006,14;0,00
+Maria Clarice Ferreira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;295343,59;0,00
+Maria Claudia da Silva Oliveira Lopes;31909413 - Despesa com Incentivo a Demissão Voluntária;265167,23;0,00
+Maria Claudia Teixeira Magalhaes;31909413 - Despesa com Incentivo a Demissão Voluntária;329702,11;0,00
+Maria Cristina Amaral;31909413 - Despesa com Incentivo a Demissão Voluntária;171458,78;0,00
+Maria Cristina Carrara Filippi;31909413 - Despesa com Incentivo a Demissão Voluntária;175031,58;0,00
+Maria Cristina Correra de Godoy;31909413 - Despesa com Incentivo a Demissão Voluntária;196820,73;0,00
+Maria Cristina da Silva Oliveira Araujo;31909413 - Despesa com Incentivo a Demissão Voluntária;168945,65;0,00
+Maria Cristina de Brito;31909413 - Despesa com Incentivo a Demissão Voluntária;106810,01;0,00
+Maria Cristina Galdino dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;58186,06;0,00
+Maria Cristina Giorlano de Moraes;31909413 - Despesa com Incentivo a Demissão Voluntária;308700,65;0,00
+Maria Cristina Luchesi de Mello;31909413 - Despesa com Incentivo a Demissão Voluntária;245437,57;0,00
+Maria Cristina Monteiro Tasca;31909413 - Despesa com Incentivo a Demissão Voluntária;316782,50;0,00
+Maria Cristina Solera;31909413 - Despesa com Incentivo a Demissão Voluntária;104826,68;0,00
+Maria Cristina Zimmermann;31909413 - Despesa com Incentivo a Demissão Voluntária;352211,20;0,00
+Maria da Conceicao Bueno da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;215480,94;0,00
+Maria da Conceicao Crivellaro de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;76718,17;0,00
+Maria da Conceicao Ferreira de Souza Sano;31909413 - Despesa com Incentivo a Demissão Voluntária;89418,83;0,00
+Maria da Penha Alves Pessoa;31909413 - Despesa com Incentivo a Demissão Voluntária;339681,12;0,00
+Maria da Penha Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;227577,34;0,00
+Maria Dalva Gomes Santana;31909413 - Despesa com Incentivo a Demissão Voluntária;165021,27;0,00
+Maria das Gracas Dutra;31909413 - Despesa com Incentivo a Demissão Voluntária;103921,60;0,00
+Maria das Graças Fernandes de Andrade;31909413 - Despesa com Incentivo a Demissão Voluntária;87512,79;0,00
+Maria das Gracas Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;122755,22;0,00
+Maria de Cassia Teresinha de Lima Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;146405,34;0,00
+Maria de Fatima Abreu Batista Mendonca;31909413 - Despesa com Incentivo a Demissão Voluntária;240941,02;0,00
+Maria de Fatima Cantareira;31909413 - Despesa com Incentivo a Demissão Voluntária;103297,11;0,00
+Maria de Fatima Filgueira Brito Dias;31909413 - Despesa com Incentivo a Demissão Voluntária;184965,28;0,00
+Maria de Fatima Neves;31909413 - Despesa com Incentivo a Demissão Voluntária;83227,54;0,00
+Maria de Fatima Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;211047,18;0,00
+Maria de Fatima Soares;31909413 - Despesa com Incentivo a Demissão Voluntária;222769,04;0,00
+Maria de Lourdes Barros de Souza Costa;31909413 - Despesa com Incentivo a Demissão Voluntária;184523,18;0,00
+Maria de Lourdes de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;118896,26;0,00
+Maria de Lourdes Fernandes;31909413 - Despesa com Incentivo a Demissão Voluntária;88698,57;0,00
+Maria de Lourdes Gomes;31909413 - Despesa com Incentivo a Demissão Voluntária;90635,22;0,00
+Maria de Lourdes Justino;31909413 - Despesa com Incentivo a Demissão Voluntária;159012,56;0,00
+Maria de Lourdes Medeiros Rodolpho;31909413 - Despesa com Incentivo a Demissão Voluntária;184451,07;0,00
+Maria de Lourdes Monteiro de Melo Hundskarl;31909413 - Despesa com Incentivo a Demissão Voluntária;438842,83;0,00
+Maria de Lourdes Muniz de Medeiros;31909413 - Despesa com Incentivo a Demissão Voluntária;116614,51;0,00
+Maria de Lourdes Ribas dos Santos Araujo;31909413 - Despesa com Incentivo a Demissão Voluntária;148721,10;0,00
+Maria de Pompeia Rodrigues Macedo;31909413 - Despesa com Incentivo a Demissão Voluntária;94301,60;0,00
+Maria Del Carmen Aguilar Toro de Coca;31909413 - Despesa com Incentivo a Demissão Voluntária;301474,55;0,00
+Maria Delizete Bentivegna Spallicci;31909413 - Despesa com Incentivo a Demissão Voluntária;409010,16;0,00
+Maria do Carmo Bottino;31909413 - Despesa com Incentivo a Demissão Voluntária;456570,39;0,00
+Maria do Carmo de Araujo;31909413 - Despesa com Incentivo a Demissão Voluntária;107257,98;0,00
+Maria do Carmo Gomes do Nascimento;31909413 - Despesa com Incentivo a Demissão Voluntária;259687,64;0,00
+Maria do Carmo Rocha;31909413 - Despesa com Incentivo a Demissão Voluntária;85862,76;0,00
+Maria do Socorro de Almeida;31909413 - Despesa com Incentivo a Demissão Voluntária;242093,88;0,00
+Maria do Socorro Moreira Batista;31909413 - Despesa com Incentivo a Demissão Voluntária;159207,91;0,00
+Maria Dolores Alves Cardoso Betoni;31909413 - Despesa com Incentivo a Demissão Voluntária;208828,00;0,00
+Maria dos Anjos Barbosa dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;208621,70;0,00
+Maria dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;207817,66;0,00
+Maria Dulcilei Faria Totti;31909413 - Despesa com Incentivo a Demissão Voluntária;226042,96;0,00
+Maria Edelgina de Lira;31909413 - Despesa com Incentivo a Demissão Voluntária;84669,18;0,00
+Maria Eliza Tessarin Gatti;31909413 - Despesa com Incentivo a Demissão Voluntária;116387,25;0,00
+Maria Esther Barbosa dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;82131,68;0,00
+Maria Etelvina Bonifacio de Sousa;31909413 - Despesa com Incentivo a Demissão Voluntária;125412,04;0,00
+Maria Eunice Esmerino Bernardo;31909413 - Despesa com Incentivo a Demissão Voluntária;166979,84;0,00
+Maria Eunice Santana dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;104147,13;0,00
+Maria Expedita Serafim;31909413 - Despesa com Incentivo a Demissão Voluntária;157189,78;0,00
+Maria Ferreira Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;104111,95;0,00
+Maria Geralda Gonçalves da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;123929,08;0,00
+Maria Gertrudes Vasconcellos Eisenlohr;31909413 - Despesa com Incentivo a Demissão Voluntária;318512,50;0,00
+Maria Gilcelia Pereira de Araujo;31909413 - Despesa com Incentivo a Demissão Voluntária;196399,86;0,00
+Maria Goncalves Ribeiro da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;98896,17;0,00
+Maria Goreti Cassiano;31909413 - Despesa com Incentivo a Demissão Voluntária;180811,47;0,00
+Maria Helena Barboza de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;156700,52;0,00
+Maria Helena Braga de Carvalho;31909413 - Despesa com Incentivo a Demissão Voluntária;264227,97;0,00
+Maria Helena Braz de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;201580,08;0,00
+Maria Helena Campos Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;203205,88;0,00
+Maria Helena de Andrade;31909413 - Despesa com Incentivo a Demissão Voluntária;286053,11;0,00
+Maria Helena Maglio;31909413 - Despesa com Incentivo a Demissão Voluntária;144878,91;0,00
+Maria Helena Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;319751,66;0,00
+Maria Helena Pires;31909413 - Despesa com Incentivo a Demissão Voluntária;282751,75;0,00
+Maria Helena Raymundo Luis Antonio;31909413 - Despesa com Incentivo a Demissão Voluntária;106770,26;0,00
+Maria Imaculada Cardoso Sampaio;31909413 - Despesa com Incentivo a Demissão Voluntária;387246,85;0,00
+Maria Ines Cardillo;31909413 - Despesa com Incentivo a Demissão Voluntária;189493,18;0,00
+Maria Ines Caximiliano Mattoso;31909413 - Despesa com Incentivo a Demissão Voluntária;152287,89;0,00
+Maria Ines Jeronimo;31909413 - Despesa com Incentivo a Demissão Voluntária;190687,06;0,00
+Maria Ines Joaquim;31909413 - Despesa com Incentivo a Demissão Voluntária;209246,17;0,00
+Maria Inês Vieira Couto;31909413 - Despesa com Incentivo a Demissão Voluntária;144686,91;0,00
+Maria Inez da Silva Matos;31909413 - Despesa com Incentivo a Demissão Voluntária;364783,98;0,00
+Maria Ione Freitas Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;101625,09;0,00
+Maria Iracema da Silva Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;99941,81;0,00
+Maria Isabel Fancelli Tomazella;31909413 - Despesa com Incentivo a Demissão Voluntária;272258,39;0,00
+Maria Ivoneide Gomes de Almeida;31909413 - Despesa com Incentivo a Demissão Voluntária;99080,78;0,00
+Maria Ivonete Goncalves;31909413 - Despesa com Incentivo a Demissão Voluntária;90802,00;0,00
+Maria Izaura Caro;31909413 - Despesa com Incentivo a Demissão Voluntária;340807,32;0,00
+Maria Jacinta de Faria Lourenço;31909413 - Despesa com Incentivo a Demissão Voluntária;178823,95;0,00
+Maria Joana dos Santos Viana;31909413 - Despesa com Incentivo a Demissão Voluntária;149921,94;0,00
+Maria Jose da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;92240,65;0,00
+Maria Jose de Jesus Carvalho;31909413 - Despesa com Incentivo a Demissão Voluntária;244774,66;0,00
+Maria Jose de Molfetta;31909413 - Despesa com Incentivo a Demissão Voluntária;226505,40;0,00
+Maria Jose de Souza Barros;31909413 - Despesa com Incentivo a Demissão Voluntária;207506,26;0,00
+Maria Jose Gonçalves Benevides;31909413 - Despesa com Incentivo a Demissão Voluntária;196184,92;0,00
+Maria Jose Prada;31909413 - Despesa com Incentivo a Demissão Voluntária;141691,64;0,00
+Maria Jose Praxedes Farias;31909413 - Despesa com Incentivo a Demissão Voluntária;101285,66;0,00
+Maria Jose Sacratim;31909413 - Despesa com Incentivo a Demissão Voluntária;51495,69;0,00
+Maria Jovita de Assuncao;31909413 - Despesa com Incentivo a Demissão Voluntária;96834,33;0,00
+Maria Julia de Macedo Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;194569,37;0,00
+Maria Leine Guion de Almeida;31909413 - Despesa com Incentivo a Demissão Voluntária;479763,53;0,00
+Maria Linete de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;119502,08;0,00
+Maria Lopes dos Santos Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;92865,44;0,00
+Maria Lucia Alves de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;363967,77;0,00
+Maria Lucia Camara Kuhl;31909413 - Despesa com Incentivo a Demissão Voluntária;104941,96;0,00
+Maria Lucia Gomes de Mendonca Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;88729,58;0,00
+Maria Luiza Baraldi Ramos;31909413 - Despesa com Incentivo a Demissão Voluntária;206706,81;0,00
+Maria Luiza Felipe Custodio;31909413 - Despesa com Incentivo a Demissão Voluntária;70381,24;0,00
+Maria Luiza Ferraz;31909413 - Despesa com Incentivo a Demissão Voluntária;153279,12;0,00
+Maria Lustosa;31909413 - Despesa com Incentivo a Demissão Voluntária;144410,00;0,00
+Maria Madalena da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;129714,25;0,00
+Maria Madalena do Carmo;31909413 - Despesa com Incentivo a Demissão Voluntária;170796,41;0,00
+Maria Madalena dos Santos Romanholo;31909413 - Despesa com Incentivo a Demissão Voluntária;170074,04;0,00
+Maria Margareth Pereira Mokarzel;31909413 - Despesa com Incentivo a Demissão Voluntária;302171,97;0,00
+Maria Margarida Batista dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;213698,08;0,00
+Maria Margarida Teixeira Monteiro;31909413 - Despesa com Incentivo a Demissão Voluntária;172034,40;0,00
+Maria Mercedes de Godoy;31909413 - Despesa com Incentivo a Demissão Voluntária;282068,22;0,00
+Maria Neide Santana;31909413 - Despesa com Incentivo a Demissão Voluntária;175700,70;0,00
+Maria Nilza Amaral;31909413 - Despesa com Incentivo a Demissão Voluntária;110163,62;0,00
+Maria Normandia de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;90770,22;0,00
+Maria Odete Goncalves de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;93836,65;0,00
+Maria Olimpia de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;155932,21;0,00
+Maria Raimunda dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;219067,82;0,00
+Maria Raimunda Lopes Barreto;31909413 - Despesa com Incentivo a Demissão Voluntária;90757,20;0,00
+Maria Rosangela Machado;31909413 - Despesa com Incentivo a Demissão Voluntária;245069,97;0,00
+Maria Salome Campos da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;201157,99;0,00
+Maria Socorro de Cerqueira Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;113537,51;0,00
+Maria Sonia da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;408822,86;0,00
+Maria Vilanir da Silva Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;136792,33;0,00
+Maria Zelma Moitinho Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;90735,19;0,00
+Maria Zuleide Goncalves;31909413 - Despesa com Incentivo a Demissão Voluntária;165223,87;0,00
+Mariana Lopez Exposito Frederico;31909413 - Despesa com Incentivo a Demissão Voluntária;135241,77;0,00
+Mariane Paulo de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;121087,32;0,00
+Marilane de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;101686,24;0,00
+Marilda Fatima da Graca;31909413 - Despesa com Incentivo a Demissão Voluntária;180197,58;0,00
+Marilda Gifalli;31909413 - Despesa com Incentivo a Demissão Voluntária;402306,07;0,00
+Marilda Osti Spinelli;31909413 - Despesa com Incentivo a Demissão Voluntária;308385,17;0,00
+Marileide Cabral Hetteissheimeir;31909413 - Despesa com Incentivo a Demissão Voluntária;144597,84;0,00
+Marilza Fatima de Oliveira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;92890,92;0,00
+Marina Camargo Costa;31909413 - Despesa com Incentivo a Demissão Voluntária;355890,67;0,00
+Marina Takeda Milani;31909413 - Despesa com Incentivo a Demissão Voluntária;269392,96;0,00
+Marinalva Januaria de Jesus;31909413 - Despesa com Incentivo a Demissão Voluntária;95439,40;0,00
+Marines Carloni de Aquino;31909413 - Despesa com Incentivo a Demissão Voluntária;231647,71;0,00
+Marinho Ribeiro Martins;31909413 - Despesa com Incentivo a Demissão Voluntária;157910,40;0,00
+Mario Barbosa Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;94246,96;0,00
+Mario Cesar Bonfa Paixao;31909413 - Despesa com Incentivo a Demissão Voluntária;208772,18;0,00
+Mario Mendonca Lemos;31909413 - Despesa com Incentivo a Demissão Voluntária;213291,19;0,00
+Mario Paulino da Silva Sobrinho;31909413 - Despesa com Incentivo a Demissão Voluntária;329118,86;0,00
+Mario Romero dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;122376,58;0,00
+Mario Rubens de Carvalho;31909413 - Despesa com Incentivo a Demissão Voluntária;162650,45;0,00
+Mario Teixeira Agostinho;31909413 - Despesa com Incentivo a Demissão Voluntária;166901,88;0,00
+Marisa Braz de Oliveira Peterossi;31909413 - Despesa com Incentivo a Demissão Voluntária;158719,69;0,00
+Maristela Almeida Ribeiro Giordano;31909413 - Despesa com Incentivo a Demissão Voluntária;202488,19;0,00
+Marith Graciano Berber;31909413 - Despesa com Incentivo a Demissão Voluntária;36744,32;0,00
+Marivalda de Melo;31909413 - Despesa com Incentivo a Demissão Voluntária;145609,31;0,00
+Mariza Leal de Meirelles Do Coutto;31909413 - Despesa com Incentivo a Demissão Voluntária;513633,38;0,00
+Marize Morais de Paiva;31909413 - Despesa com Incentivo a Demissão Voluntária;197172,07;0,00
+Marlei Aparecida Lopes;31909413 - Despesa com Incentivo a Demissão Voluntária;93102,04;0,00
+Marlene Alves de Almeida;31909413 - Despesa com Incentivo a Demissão Voluntária;163687,85;0,00
+Marlene Aparecida Anibal;31909413 - Despesa com Incentivo a Demissão Voluntária;263948,37;0,00
+Marlene Aparecida Menconi;31909413 - Despesa com Incentivo a Demissão Voluntária;344004,38;0,00
+Marlene Pereira de Carvalho Florido;31909413 - Despesa com Incentivo a Demissão Voluntária;262300,29;0,00
+Marlene Petros Angelides;31909413 - Despesa com Incentivo a Demissão Voluntária;256939,30;0,00
+Marlene Rodrigues da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;172670,65;0,00
+Marlene Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;90532,75;0,00
+Marlene Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;164297,93;0,00
+Marli da Silva Leao;31909413 - Despesa com Incentivo a Demissão Voluntária;113044,33;0,00
+Marli de Andrade Mendes;31909413 - Despesa com Incentivo a Demissão Voluntária;88142,74;0,00
+Marli Izilda de Oliveira Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;162178,36;0,00
+Marli José Vitório Colombari;31909413 - Despesa com Incentivo a Demissão Voluntária;383461,89;0,00
+Marli Ruggeri Vieira Kuchiki;31909413 - Despesa com Incentivo a Demissão Voluntária;212109,99;0,00
+Marli Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;89228,53;0,00
+Marli Solange Barbosa Baldoni;31909413 - Despesa com Incentivo a Demissão Voluntária;324006,21;0,00
+Marli Trajano da Silva Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;165760,79;0,00
+Marly de Oliveira Couto;31909413 - Despesa com Incentivo a Demissão Voluntária;162406,26;0,00
+Marly Elizabete Ferreira de Castro;31909413 - Despesa com Incentivo a Demissão Voluntária;178670,73;0,00
+Marta Iemma Meira;31909413 - Despesa com Incentivo a Demissão Voluntária;202385,37;0,00
+Marta Regina Couto Faria;31909413 - Despesa com Incentivo a Demissão Voluntária;174131,22;0,00
+Marta Regina Liporacci;31909413 - Despesa com Incentivo a Demissão Voluntária;242401,26;0,00
+Marta Ribeiro de Carvalho Freitas;31909413 - Despesa com Incentivo a Demissão Voluntária;198985,64;0,00
+Martha Aurelia Aldred;31909413 - Despesa com Incentivo a Demissão Voluntária;382195,48;0,00
+Mary Figueiredo Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;85186,93;0,00
+Mateus Teixeira Cavalcante;31909413 - Despesa com Incentivo a Demissão Voluntária;212939,82;0,00
+Mauricio de Jesus Mendes;31909413 - Despesa com Incentivo a Demissão Voluntária;172168,74;0,00
+Mauro Nishi;31909413 - Despesa com Incentivo a Demissão Voluntária;371182,83;0,00
+Mauro Sucupira;31909413 - Despesa com Incentivo a Demissão Voluntária;210049,97;0,00
+Messias Costa Serafim;31909413 - Despesa com Incentivo a Demissão Voluntária;160509,76;0,00
+Michelle Maria Alves de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;47662,87;0,00
+Michelli da Silva Almeida;31909413 - Despesa com Incentivo a Demissão Voluntária;10861,95;0,00
+Miguel Lima de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;134927,19;0,00
+Miguel Roberto Navarro;31909413 - Despesa com Incentivo a Demissão Voluntária;91285,67;0,00
+Milton Correa de Assiz;31909413 - Despesa com Incentivo a Demissão Voluntária;195946,58;0,00
+Milton de Moraes;31909413 - Despesa com Incentivo a Demissão Voluntária;392106,89;0,00
+Milton Muller;31909413 - Despesa com Incentivo a Demissão Voluntária;157788,24;0,00
+Milton Rosa Alves;31909413 - Despesa com Incentivo a Demissão Voluntária;100892,52;0,00
+Miltonete Soares de Araujo;31909413 - Despesa com Incentivo a Demissão Voluntária;175201,86;0,00
+Miria Martins Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;192283,86;0,00
+Miriam Alves Wrigg;31909413 - Despesa com Incentivo a Demissão Voluntária;99166,88;0,00
+Miriam Regina Pelleschi Taborda Simone;31909413 - Despesa com Incentivo a Demissão Voluntária;209597,34;0,00
+Miriam Terezinha Monteiro;31909413 - Despesa com Incentivo a Demissão Voluntária;115451,98;0,00
+Mirian Bernardes Lopes Alves;31909413 - Despesa com Incentivo a Demissão Voluntária;131934,26;0,00
+Mirian Geni Rabello;31909413 - Despesa com Incentivo a Demissão Voluntária;278590,25;0,00
+Mirian Penze Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;249389,37;0,00
+Miriane Amaral Pereira;31909413 - Despesa com Incentivo a Demissão Voluntária;112243,31;0,00
+Mirtes Imenez;31909413 - Despesa com Incentivo a Demissão Voluntária;103721,40;0,00
+Monica Nave Cevoli;31909413 - Despesa com Incentivo a Demissão Voluntária;160760,75;0,00
+Monica Silva de Souza Meirelles;31909413 - Despesa com Incentivo a Demissão Voluntária;360803,63;0,00
+Mônica Silveira Brito;31909413 - Despesa com Incentivo a Demissão Voluntária;348060,27;0,00
+Murilo Chellegatti;31909413 - Despesa com Incentivo a Demissão Voluntária;29556,76;0,00
+Mylton Silveira Bueno Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;94223,58;0,00
+Myriam Myrthes de Moura;31909413 - Despesa com Incentivo a Demissão Voluntária;62454,96;0,00
+Nadia Megumi Koyama;31909413 - Despesa com Incentivo a Demissão Voluntária;5609,69;0,00
+Nair Augusta da Silva Baratto;31909413 - Despesa com Incentivo a Demissão Voluntária;136527,99;0,00
+Nalva Ramalho de Brito;31909413 - Despesa com Incentivo a Demissão Voluntária;184933,96;0,00
+Nanci Hitomi Inoue;31909413 - Despesa com Incentivo a Demissão Voluntária;508124,66;0,00
+Narciso Antonio dos Santos Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;194623,69;0,00
+Natalia da Conceicao Afonso;31909413 - Despesa com Incentivo a Demissão Voluntária;196100,41;0,00
+Natalina Albuquerque Borba;31909413 - Despesa com Incentivo a Demissão Voluntária;147671,72;0,00
+Nazira de Souza Marques dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;93193,95;0,00
+Neide Aparecida Justino Rosa;31909413 - Despesa com Incentivo a Demissão Voluntária;110607,48;0,00
+Neide Bautz Marinato Tiritan;31909413 - Despesa com Incentivo a Demissão Voluntária;154786,07;0,00
+Neide Bombeiro Filet;31909413 - Despesa com Incentivo a Demissão Voluntária;339263,42;0,00
+Neiva Suely Costa Sasso;31909413 - Despesa com Incentivo a Demissão Voluntária;207262,84;0,00
+Nelida Lolli Macedo de Carvalho;31909413 - Despesa com Incentivo a Demissão Voluntária;253674,26;0,00
+Nelson Augusto Mercado Cuevas;31909413 - Despesa com Incentivo a Demissão Voluntária;199974,16;0,00
+Nelson de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;150219,69;0,00
+Nelson Jose Heraldo Gallo;31909413 - Despesa com Incentivo a Demissão Voluntária;368629,43;0,00
+Nelson Pereira Nunes Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;61450,25;0,00
+Neusa da Silva Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;117214,27;0,00
+Neusa Kazue Habe;31909413 - Despesa com Incentivo a Demissão Voluntária;290116,84;0,00
+Neusa Maria Custodio Vieira;31909413 - Despesa com Incentivo a Demissão Voluntária;169591,34;0,00
+Neuza Maria de Goes;31909413 - Despesa com Incentivo a Demissão Voluntária;90083,48;0,00
+Nicelia Alves do Nascimento Gomes;31909413 - Despesa com Incentivo a Demissão Voluntária;115353,09;0,00
+Nicolau Amaro de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;125545,51;0,00
+Nidalia Margarida Sapia Garcia;31909413 - Despesa com Incentivo a Demissão Voluntária;174387,56;0,00
+Nilce Araujo Mello;31909413 - Despesa com Incentivo a Demissão Voluntária;151809,69;0,00
+Nilce de Oliveira Wolga;31909413 - Despesa com Incentivo a Demissão Voluntária;210847,93;0,00
+Nilda Aparecida Lisboa;31909413 - Despesa com Incentivo a Demissão Voluntária;160832,54;0,00
+Nilson Belchior;31909413 - Despesa com Incentivo a Demissão Voluntária;227079,34;0,00
+Nilson Simoes da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;93227,03;0,00
+Nilta Maria da Silva Miglioli;31909413 - Despesa com Incentivo a Demissão Voluntária;392219,58;0,00
+Nilton Carlos Orni Barbosa;31909413 - Despesa com Incentivo a Demissão Voluntária;103750,49;0,00
+Nilton Rosa Alves;31909413 - Despesa com Incentivo a Demissão Voluntária;171557,61;0,00
+Nivalda Maria da Conceicao Batista;31909413 - Despesa com Incentivo a Demissão Voluntária;107048,48;0,00
+Nivaldo Gomes da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;60485,61;0,00
+Nivaldo Torres;31909413 - Despesa com Incentivo a Demissão Voluntária;195727,59;0,00
+Nivanda Alves Vargas de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;104347,50;0,00
+Noe Barbosa de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;325710,92;0,00
+Noe Martins dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;53748,93;0,00
+Noelir Prezzuto;31909413 - Despesa com Incentivo a Demissão Voluntária;207245,48;0,00
+Noemi Marisa Brunet Rogenski;31909413 - Despesa com Incentivo a Demissão Voluntária;434401,48;0,00
+Nonato Martins da Rocha;31909413 - Despesa com Incentivo a Demissão Voluntária;135303,02;0,00
+Norival Rezende da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;171974,73;0,00
+Nucia Maria de Oliveira Baptista;31909413 - Despesa com Incentivo a Demissão Voluntária;155774,04;0,00
+Odair Rosa da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;94809,98;0,00
+Oderice Monteiro de Carvalho;31909413 - Despesa com Incentivo a Demissão Voluntária;330242,64;0,00
+Odete de Campos;31909413 - Despesa com Incentivo a Demissão Voluntária;115660,98;0,00
+Olavo Rodrigues;31909413 - Despesa com Incentivo a Demissão Voluntária;226156,08;0,00
+Olga Maria Domingues Cora Oka;31909413 - Despesa com Incentivo a Demissão Voluntária;79681,97;0,00
+Olga Maria Marques Charro;31909413 - Despesa com Incentivo a Demissão Voluntária;169623,34;0,00
+Olinda Batista;31909413 - Despesa com Incentivo a Demissão Voluntária;92619,27;0,00
+Olívia Steffen Buffo;31909413 - Despesa com Incentivo a Demissão Voluntária;10954,12;0,00
+Oripes Ponciano;31909413 - Despesa com Incentivo a Demissão Voluntária;191265,47;0,00
+Orlando Eustaquio Eugenio de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;94241,72;0,00
+Osmar Silva Rodrigues;31909413 - Despesa com Incentivo a Demissão Voluntária;37628,49;0,00
+Osvaldo de Moraes Medeiros;31909413 - Despesa com Incentivo a Demissão Voluntária;210877,62;0,00
+Osvaldo Rodrigues dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;145569,16;0,00
+Osvaldo Shigueru Nakao;31909413 - Despesa com Incentivo a Demissão Voluntária;547571,15;0,00
+Oswaldo Alves de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;320920,75;0,00
+Oswaldo Ferreira do Nascimento;31909413 - Despesa com Incentivo a Demissão Voluntária;115925,37;0,00
+Oswaldo Intaschi Junior;31909413 - Despesa com Incentivo a Demissão Voluntária;175889,63;0,00
+Oswaldo Luiz Luz Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;319586,86;0,00
+Oswaldo Mituo Yaguti;31909413 - Despesa com Incentivo a Demissão Voluntária;255629,42;0,00
+Otavio Ferraz Junior;31909413 - Despesa com Incentivo a Demissão Voluntária;78486,07;0,00
+Ourisval Santana Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;141258,37;0,00
+Ozeas de Oliveira Andrade;31909413 - Despesa com Incentivo a Demissão Voluntária;134227,48;0,00
+Palmira Andre Cunha;31909413 - Despesa com Incentivo a Demissão Voluntária;184845,59;0,00
+Palmira de Fatima Temponi;31909413 - Despesa com Incentivo a Demissão Voluntária;190949,20;0,00
+Palmira Ferreira dos Santos Reis e Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;174799,27;0,00
+Patricia Aparecida Leite de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;34856,49;0,00
+Patricia Manzini de Oliveira Rososchansky;31909413 - Despesa com Incentivo a Demissão Voluntária;18884,20;0,00
+Paula Pereira Buzato;31909413 - Despesa com Incentivo a Demissão Voluntária;132531,17;0,00
+Paulo Cesar Carvalho;31909413 - Despesa com Incentivo a Demissão Voluntária;403656,55;0,00
+Paulo Clodomir Castrechini;31909413 - Despesa com Incentivo a Demissão Voluntária;180600,68;0,00
+Paulo de Aguiar Prouvot;31909413 - Despesa com Incentivo a Demissão Voluntária;407003,89;0,00
+Paulo Eduardo Hebmuller;31909413 - Despesa com Incentivo a Demissão Voluntária;104093,44;0,00
+Paulo Eduardo Muller de Siqueira;31909413 - Despesa com Incentivo a Demissão Voluntária;174284,62;0,00
+Paulo Ferreira de Mendonca;31909413 - Despesa com Incentivo a Demissão Voluntária;235703,76;0,00
+Paulo Giovanni Saramelli;31909413 - Despesa com Incentivo a Demissão Voluntária;125981,96;0,00
+Paulo Henrique da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;137606,16;0,00
+Paulo Henrique Gomes;31909413 - Despesa com Incentivo a Demissão Voluntária;50662,14;0,00
+Paulo Pinto da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;200821,87;0,00
+Paulo Roberto Goncalo Samuel;31909413 - Despesa com Incentivo a Demissão Voluntária;122254,28;0,00
+Paulo Roberto Tiburcio de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;89562,60;0,00
+Paulo Rosalvo da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;222770,84;0,00
+Paulo Sergio Severino;31909413 - Despesa com Incentivo a Demissão Voluntária;159487,32;0,00
+Pedro Costa Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;152851,28;0,00
+Pedro da Silveira Franco;31909413 - Despesa com Incentivo a Demissão Voluntária;14774,72;0,00
+Pedro Ferreira de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;96299,28;0,00
+Pedro Joao Picoli;31909413 - Despesa com Incentivo a Demissão Voluntária;264357,71;0,00
+Pedro Luis de Martin Gambaro;31909413 - Despesa com Incentivo a Demissão Voluntária;190047,39;0,00
+Pedro Marini Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;98391,90;0,00
+Pedro Pereira dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;128791,06;0,00
+Pedro Rodrigues de Almeida;31909413 - Despesa com Incentivo a Demissão Voluntária;100354,71;0,00
+Priscila dos Santos Netto Alves;31909413 - Despesa com Incentivo a Demissão Voluntária;93943,55;0,00
+Priscilla Peters Rodrigues;31909413 - Despesa com Incentivo a Demissão Voluntária;51032,59;0,00
+Quiteria Galdino de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;63887,67;0,00
+Rafael Barbosa da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;36244,85;0,00
+Rafael Rios Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;379152,92;0,00
+Railton Cesar Goncalves de Abrantes;31909413 - Despesa com Incentivo a Demissão Voluntária;400196,21;0,00
+Raimunda Oliveira Rodrigues da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;191960,12;0,00
+Raimundo Antunes de Carvalho;31909413 - Despesa com Incentivo a Demissão Voluntária;156579,77;0,00
+Raimundo das Gracas Carneiro;31909413 - Despesa com Incentivo a Demissão Voluntária;99439,49;0,00
+Raimundo Jose da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;148760,56;0,00
+Raimundo Leal de Sousa;31909413 - Despesa com Incentivo a Demissão Voluntária;120127,48;0,00
+Raimundo Souza Tito;31909413 - Despesa com Incentivo a Demissão Voluntária;169020,97;0,00
+Ramona Mercedes Straube;31909413 - Despesa com Incentivo a Demissão Voluntária;335722,09;0,00
+Raquel Mendonca da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;109732,49;0,00
+Raquel Moura Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;93459,53;0,00
+Regiane Zanelato Nogueira Jardim;31909413 - Despesa com Incentivo a Demissão Voluntária;165616,16;0,00
+Regina Bonazzi Perez;31909413 - Despesa com Incentivo a Demissão Voluntária;196555,31;0,00
+Regina Célia Dalla Costa;31909413 - Despesa com Incentivo a Demissão Voluntária;546672,46;0,00
+Regina Celia Reis da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;116140,53;0,00
+Regina da Rocha;31909413 - Despesa com Incentivo a Demissão Voluntária;231260,80;0,00
+Regina Jalovicar;31909413 - Despesa com Incentivo a Demissão Voluntária;241011,55;0,00
+Regina Luiza da Rocha Garcia;31909413 - Despesa com Incentivo a Demissão Voluntária;312245,34;0,00
+Regina Raquel Coleto Meirelles;31909413 - Despesa com Incentivo a Demissão Voluntária;156800,27;0,00
+Regina Taeko Katayama;31909413 - Despesa com Incentivo a Demissão Voluntária;173942,97;0,00
+Reginalda Marchetti Garcia;31909413 - Despesa com Incentivo a Demissão Voluntária;90927,72;0,00
+Reginaldo Lincoln Resende de Sousa;31909413 - Despesa com Incentivo a Demissão Voluntária;191183,68;0,00
+Renata Cristina da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;21898,44;0,00
+Renato Bastos;31909413 - Despesa com Incentivo a Demissão Voluntária;26253,61;0,00
+Renato Jose de Araujo;31909413 - Despesa com Incentivo a Demissão Voluntária;138029,31;0,00
+Reni Lino da Silva Ferraz Branco;31909413 - Despesa com Incentivo a Demissão Voluntária;234560,94;0,00
+Ricardo de Souza Antunes;31909413 - Despesa com Incentivo a Demissão Voluntária;161079,54;0,00
+Ricardo Domingues;31909413 - Despesa com Incentivo a Demissão Voluntária;77533,63;0,00
+Ricardo Fernando Rufino;31909413 - Despesa com Incentivo a Demissão Voluntária;161457,67;0,00
+Ricardo Sanchez;31909413 - Despesa com Incentivo a Demissão Voluntária;228756,49;0,00
+Rita de Cassia Abreu Macedo;31909413 - Despesa com Incentivo a Demissão Voluntária;196049,28;0,00
+Rita de Cassia Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;251053,82;0,00
+Rita Maria da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;115218,64;0,00
+Roberto Bogo;31909413 - Despesa com Incentivo a Demissão Voluntária;332064,51;0,00
+Roberto Correa de Almeida Junior;31909413 - Despesa com Incentivo a Demissão Voluntária;196270,38;0,00
+Roberto de Souza Queiroz;31909413 - Despesa com Incentivo a Demissão Voluntária;94723,01;0,00
+Roberto dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;69388,78;0,00
+Roberto dos Santos Junior;31909413 - Despesa com Incentivo a Demissão Voluntária;103015,42;0,00
+Roberto Luciano Santos Martins;31909413 - Despesa com Incentivo a Demissão Voluntária;109742,51;0,00
+Roberto Moreira Gomes;31909413 - Despesa com Incentivo a Demissão Voluntária;240932,73;0,00
+Roberto Nascimento;31909413 - Despesa com Incentivo a Demissão Voluntária;228562,95;0,00
+Roberto Regis Maia;31909413 - Despesa com Incentivo a Demissão Voluntária;153647,24;0,00
+Roberto Zangrandi;31909413 - Despesa com Incentivo a Demissão Voluntária;217501,48;0,00
+Rodolfo Delgado Lota;31909413 - Despesa com Incentivo a Demissão Voluntária;81463,35;0,00
+Rodrigo Guerreiro Leao;31909413 - Despesa com Incentivo a Demissão Voluntária;82008,16;0,00
+Ronaldo Augusto de Athaydes;31909413 - Despesa com Incentivo a Demissão Voluntária;40284,94;0,00
+Ronaldo Cotes;31909413 - Despesa com Incentivo a Demissão Voluntária;77909,62;0,00
+Rory Willian Garcia Pimentel;31909413 - Despesa com Incentivo a Demissão Voluntária;104084,47;0,00
+Rosa das Gracas Barbosa;31909413 - Despesa com Incentivo a Demissão Voluntária;70162,75;0,00
+Rosa Maria da Conceicao Zanardi;31909413 - Despesa com Incentivo a Demissão Voluntária;166174,93;0,00
+Rosa Maria de Moura;31909413 - Despesa com Incentivo a Demissão Voluntária;135510,59;0,00
+Rosa Maria Moura;31909413 - Despesa com Incentivo a Demissão Voluntária;155158,62;0,00
+Rosana Aparecida de Faria Saraiva;31909413 - Despesa com Incentivo a Demissão Voluntária;34423,84;0,00
+Rosana Cleide Paick Utiama;31909413 - Despesa com Incentivo a Demissão Voluntária;177598,90;0,00
+Rosangela Aparecida Isaac;31909413 - Despesa com Incentivo a Demissão Voluntária;176398,11;0,00
+Rosangela Borges de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;149762,86;0,00
+Rosangela Cruz Lima Beco;31909413 - Despesa com Incentivo a Demissão Voluntária;217784,95;0,00
+Rosangela de Moura;31909413 - Despesa com Incentivo a Demissão Voluntária;217458,81;0,00
+Rosangela Fejes Luccas;31909413 - Despesa com Incentivo a Demissão Voluntária;200862,40;0,00
+Rosangela Isabel da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;67558,57;0,00
+Rosangela Martins Cavalcante;31909413 - Despesa com Incentivo a Demissão Voluntária;96547,42;0,00
+Rosangela Rodrigues Alves;31909413 - Despesa com Incentivo a Demissão Voluntária;103177,93;0,00
+Rosangela Souza Contieri;31909413 - Despesa com Incentivo a Demissão Voluntária;231156,04;0,00
+Rose Mary dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;190852,38;0,00
+Roselaine Pereira Alvim Cardoso;31909413 - Despesa com Incentivo a Demissão Voluntária;234271,98;0,00
+Roseli Alves Ferreira Soares;31909413 - Despesa com Incentivo a Demissão Voluntária;241092,22;0,00
+Roseli Aparecida C de Almeida Fidelis;31909413 - Despesa com Incentivo a Demissão Voluntária;164509,45;0,00
+Roseli Aparecida Mauricio Lopes Soares;31909413 - Despesa com Incentivo a Demissão Voluntária;94273,89;0,00
+Roseli Barboza de Campos Mariam;31909413 - Despesa com Incentivo a Demissão Voluntária;192510,26;0,00
+Roseli de Fatima Camargo Assumpcao;31909413 - Despesa com Incentivo a Demissão Voluntária;148869,43;0,00
+Roseli Lima Novaes Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;54476,04;0,00
+Roselicy da Costa Barboza;31909413 - Despesa com Incentivo a Demissão Voluntária;244793,57;0,00
+Rosemary Feijó da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;92124,87;0,00
+Rosemeri dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;244395,42;0,00
+Rosinea Costa Barboza Mascarenhas;31909413 - Despesa com Incentivo a Demissão Voluntária;234816,57;0,00
+Rozilda de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;165350,94;0,00
+Rubens Carmo Gomides;31909413 - Despesa com Incentivo a Demissão Voluntária;110044,38;0,00
+Rute Barboza Ribeiro;31909413 - Despesa com Incentivo a Demissão Voluntária;96434,36;0,00
+Ruth da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;104665,00;0,00
+Ruth Elisabeth de Martin;31909413 - Despesa com Incentivo a Demissão Voluntária;297608,77;0,00
+Salete Regina da Rocha;31909413 - Despesa com Incentivo a Demissão Voluntária;144178,49;0,00
+Salvador Vasconcelos Correa;31909413 - Despesa com Incentivo a Demissão Voluntária;204856,84;0,00
+Sandra Aparecida Lopes;31909413 - Despesa com Incentivo a Demissão Voluntária;98434,93;0,00
+Sandra Aparecida Rosner;31909413 - Despesa com Incentivo a Demissão Voluntária;275780,74;0,00
+Sandra da Assuncao Vaz Cheio;31909413 - Despesa com Incentivo a Demissão Voluntária;97639,49;0,00
+Sandra dos Santos Guimarães de Carvalho Cruz;31909413 - Despesa com Incentivo a Demissão Voluntária;136195,94;0,00
+Sandra Helena Alves Bispo;31909413 - Despesa com Incentivo a Demissão Voluntária;270942,60;0,00
+Sandra Maria Gomes da Silva Lourenco;31909413 - Despesa com Incentivo a Demissão Voluntária;227825,54;0,00
+Sandra Regina Codo;31909413 - Despesa com Incentivo a Demissão Voluntária;306808,12;0,00
+Sandra Regina de Lucca;31909413 - Despesa com Incentivo a Demissão Voluntária;146215,93;0,00
+Sandra Regina Ghiraldini Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;162491,48;0,00
+Sandra Regina Morena da Silva Fideles;31909413 - Despesa com Incentivo a Demissão Voluntária;156685,69;0,00
+Sandra Sueli da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;131198,28;0,00
+Sebastiana Aparecida Brustello Lino;31909413 - Despesa com Incentivo a Demissão Voluntária;156202,19;0,00
+Sebastiana Roberta do Nascimento;31909413 - Despesa com Incentivo a Demissão Voluntária;127924,74;0,00
+Sebastiao Alves dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;59368,70;0,00
+Sebastiao Assis de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;89522,98;0,00
+Sebastiao de Sousa Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;102390,89;0,00
+Sebastiao Eduardo Martins;31909413 - Despesa com Incentivo a Demissão Voluntária;181531,62;0,00
+Sebastiao Garcia de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;182536,55;0,00
+Sebastiao Geraldo Bossi;31909413 - Despesa com Incentivo a Demissão Voluntária;87823,74;0,00
+Sebastiao Marques Ferreira;31909413 - Despesa com Incentivo a Demissão Voluntária;126937,44;0,00
+Sebastiao Prudencio Ramos;31909413 - Despesa com Incentivo a Demissão Voluntária;134153,11;0,00
+Selma Lopes Betta Ragazzi;31909413 - Despesa com Incentivo a Demissão Voluntária;441926,27;0,00
+Selma Regina de Moura;31909413 - Despesa com Incentivo a Demissão Voluntária;215178,92;0,00
+Sergio Aparecido de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;226737,71;0,00
+Sergio Aparecido Lopes;31909413 - Despesa com Incentivo a Demissão Voluntária;141623,85;0,00
+Sergio de Luccas;31909413 - Despesa com Incentivo a Demissão Voluntária;177925,59;0,00
+Sergio Giannella;31909413 - Despesa com Incentivo a Demissão Voluntária;121833,41;0,00
+Sergio Luiz de Assumpcao;31909413 - Despesa com Incentivo a Demissão Voluntária;576106,37;0,00
+Sergio Vieira Lopes;31909413 - Despesa com Incentivo a Demissão Voluntária;129289,44;0,00
+Shigueioshi Kataoka;31909413 - Despesa com Incentivo a Demissão Voluntária;340403,50;0,00
+Shirlei Aparecida Vieira Marques;31909413 - Despesa com Incentivo a Demissão Voluntária;188025,27;0,00
+Shirlei da Cruz Faria;31909413 - Despesa com Incentivo a Demissão Voluntária;114841,96;0,00
+Shirlei Meire da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;199616,75;0,00
+Silmara de Souza Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;228718,91;0,00
+Silmara Rodrigues;31909413 - Despesa com Incentivo a Demissão Voluntária;147679,64;0,00
+Silvana Bueno Marques;31909413 - Despesa com Incentivo a Demissão Voluntária;417973,56;0,00
+Silvana Soares;31909413 - Despesa com Incentivo a Demissão Voluntária;154911,25;0,00
+Silvana Vecchia da Fonseca;31909413 - Despesa com Incentivo a Demissão Voluntária;223982,58;0,00
+Silvia Amalia Canova Cardoso;31909413 - Despesa com Incentivo a Demissão Voluntária;435322,52;0,00
+Silvia Aparecida Teixeira;31909413 - Despesa com Incentivo a Demissão Voluntária;234318,06;0,00
+Silvia Elena Massuli Veiga;31909413 - Despesa com Incentivo a Demissão Voluntária;255902,66;0,00
+Silvia Freitas dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;227940,97;0,00
+Silvia Gomes Novo;31909413 - Despesa com Incentivo a Demissão Voluntária;265630,90;0,00
+Silvia Jeronima Ignacio Dias;31909413 - Despesa com Incentivo a Demissão Voluntária;150835,74;0,00
+Silvia Maria Oliva;31909413 - Despesa com Incentivo a Demissão Voluntária;194873,83;0,00
+Silvia Martins Baeder;31909413 - Despesa com Incentivo a Demissão Voluntária;79827,37;0,00
+Silvia Nascimento de Miranda;31909413 - Despesa com Incentivo a Demissão Voluntária;110628,63;0,00
+Silvia Pereira Bomfim;31909413 - Despesa com Incentivo a Demissão Voluntária;97798,10;0,00
+Silvia Rosa da Silva Kettelhut;31909413 - Despesa com Incentivo a Demissão Voluntária;220146,27;0,00
+Silvia Rosana Souza Mendes;31909413 - Despesa com Incentivo a Demissão Voluntária;346347,39;0,00
+Silviano Peixoto Soares;31909413 - Despesa com Incentivo a Demissão Voluntária;204585,97;0,00
+Silvio Luis Crispim;31909413 - Despesa com Incentivo a Demissão Voluntária;183339,62;0,00
+Silvio Serrão do Nascimento;31909413 - Despesa com Incentivo a Demissão Voluntária;183136,40;0,00
+Simara Aparecida Martin Arroyo da Cruz;31909413 - Despesa com Incentivo a Demissão Voluntária;158956,20;0,00
+Sinesio Mendes de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;151179,71;0,00
+Sinval Ribeiro Damasceno;31909413 - Despesa com Incentivo a Demissão Voluntária;130558,78;0,00
+Sinvaldo Vieira Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;137403,89;0,00
+Sirlene Campos de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;119297,26;0,00
+Solange Aparecida Lorena Godoy;31909413 - Despesa com Incentivo a Demissão Voluntária;234323,32;0,00
+Solange Rissi Sirimarco;31909413 - Despesa com Incentivo a Demissão Voluntária;384541,45;0,00
+Solange Vieira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;239907,74;0,00
+Sonia Aparecida Barrios de Campos;31909413 - Despesa com Incentivo a Demissão Voluntária;123489,30;0,00
+Sonia Maria Cordeiro de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;99803,54;0,00
+Sonia Maria Custodia de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;92579,47;0,00
+Sonia Maria Dall Evedove;31909413 - Despesa com Incentivo a Demissão Voluntária;97457,70;0,00
+Sonia Maria Dangelis dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;221301,72;0,00
+Sonia Maria de Carvalho;31909413 - Despesa com Incentivo a Demissão Voluntária;79587,21;0,00
+Sonia Maria dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;92655,03;0,00
+Sonia Maria Gardim;31909413 - Despesa com Incentivo a Demissão Voluntária;325535,08;0,00
+Sonia Maria Gonzaga;31909413 - Despesa com Incentivo a Demissão Voluntária;184791,38;0,00
+Sonia Maria Moreto Trindade;31909413 - Despesa com Incentivo a Demissão Voluntária;345353,62;0,00
+Sonia Maria Spigolon;31909413 - Despesa com Incentivo a Demissão Voluntária;215829,24;0,00
+Sonia Marlene Ferreira Dias;31909413 - Despesa com Incentivo a Demissão Voluntária;91429,06;0,00
+Sonia Mitsuko Uemura Gravina;31909413 - Despesa com Incentivo a Demissão Voluntária;214389,63;0,00
+Sonia Montenegro;31909413 - Despesa com Incentivo a Demissão Voluntária;36889,64;0,00
+Sonia Pedrozo Gomes;31909413 - Despesa com Incentivo a Demissão Voluntária;367801,67;0,00
+Sonia Regina dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;103033,77;0,00
+Sonia Salem;31909413 - Despesa com Incentivo a Demissão Voluntária;291243,83;0,00
+Stella Maris Taciro;31909413 - Despesa com Incentivo a Demissão Voluntária;351009,09;0,00
+Sueli Aparecida de Lima Chinaglia;31909413 - Despesa com Incentivo a Demissão Voluntária;226532,66;0,00
+Sueli Aparecida Neves;31909413 - Despesa com Incentivo a Demissão Voluntária;164129,57;0,00
+Sueli Aparecida Paschoal Dian;31909413 - Despesa com Incentivo a Demissão Voluntária;192794,92;0,00
+Sueli Aparecida Rodrigues dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;257961,24;0,00
+Sueli Aparecida Santos da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;87979,64;0,00
+Sueli Blanes Damy;31909413 - Despesa com Incentivo a Demissão Voluntária;236322,92;0,00
+Sueli Cooke Militello;31909413 - Despesa com Incentivo a Demissão Voluntária;160281,20;0,00
+Sueli da Cruz Moura Campos;31909413 - Despesa com Incentivo a Demissão Voluntária;180762,36;0,00
+Sueli de Fatima Sant Anna;31909413 - Despesa com Incentivo a Demissão Voluntária;160298,48;0,00
+Sueli Monteiro Garcia da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;235424,76;0,00
+Sueli Providelo;31909413 - Despesa com Incentivo a Demissão Voluntária;171414,51;0,00
+Suely Andrade de Barros;31909413 - Despesa com Incentivo a Demissão Voluntária;313330,94;0,00
+Suely Cafazzi Prati;31909413 - Despesa com Incentivo a Demissão Voluntária;415313,28;0,00
+Suely Mendes dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;162428,18;0,00
+Suzana Teixeira Alves Cezar;31909413 - Despesa com Incentivo a Demissão Voluntária;159349,95;0,00
+Suzi Maria Jose Alcaraz Honel;31909413 - Despesa com Incentivo a Demissão Voluntária;281231,52;0,00
+Sylvia Lucia de Freitas;31909413 - Despesa com Incentivo a Demissão Voluntária;148748,19;0,00
+Sylvia Regina Fontes da Silva Barsotti;31909413 - Despesa com Incentivo a Demissão Voluntária;435043,79;0,00
+Tadeu Roberto de Abreu;31909413 - Despesa com Incentivo a Demissão Voluntária;33308,77;0,00
+Tania Amir de Jesus Dias;31909413 - Despesa com Incentivo a Demissão Voluntária;320911,42;0,00
+Tania Comi Pereira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;291494,51;0,00
+Tania Cristina Marques;31909413 - Despesa com Incentivo a Demissão Voluntária;151476,20;0,00
+Tania Regina Sancinetti;31909413 - Despesa com Incentivo a Demissão Voluntária;459889,09;0,00
+Tania Santos Barbosa de Freitas;31909413 - Despesa com Incentivo a Demissão Voluntária;96698,44;0,00
+Tarcisia de Lima Brogna;31909413 - Despesa com Incentivo a Demissão Voluntária;209107,25;0,00
+Tatianne Gonçalves Silva Saquetim;31909413 - Despesa com Incentivo a Demissão Voluntária;24072,78;0,00
+Tayza Malaquias Macedo;31909413 - Despesa com Incentivo a Demissão Voluntária;239640,20;0,00
+Telma Flores Genaro Motti;31909413 - Despesa com Incentivo a Demissão Voluntária;509868,06;0,00
+Telma Pazini;31909413 - Despesa com Incentivo a Demissão Voluntária;165735,20;0,00
+Telma Regina Rodrigues;31909413 - Despesa com Incentivo a Demissão Voluntária;399475,86;0,00
+Teodoro Mendes Neto;31909413 - Despesa com Incentivo a Demissão Voluntária;527803,96;0,00
+Teresa Cristina Aurichi Mario;31909413 - Despesa com Incentivo a Demissão Voluntária;162788,25;0,00
+Teresa Cristina dos Reis Gonzalez;31909413 - Despesa com Incentivo a Demissão Voluntária;276050,99;0,00
+Teresa Maria de Jesus Cones;31909413 - Despesa com Incentivo a Demissão Voluntária;102564,99;0,00
+Terezinha Amaro dos Reis Alves;31909413 - Despesa com Incentivo a Demissão Voluntária;95021,85;0,00
+Terezinha Izau Casemiro;31909413 - Despesa com Incentivo a Demissão Voluntária;87772,61;0,00
+Terezinha Mendes de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;162586,40;0,00
+Terezinha Miranda;31909413 - Despesa com Incentivo a Demissão Voluntária;124522,52;0,00
+Thamara Pereira Uehara;31909413 - Despesa com Incentivo a Demissão Voluntária;19697,03;0,00
+Tiago Ribeiro de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;69096,06;0,00
+Tomaz Rodrigues de Carvalho Filho;31909413 - Despesa com Incentivo a Demissão Voluntária;47004,83;0,00
+Toshie Sugawara;31909413 - Despesa com Incentivo a Demissão Voluntária;362861,66;0,00
+Ubaldo Hitoshi Nakata;31909413 - Despesa com Incentivo a Demissão Voluntária;231610,08;0,00
+Udo Schnitter;31909413 - Despesa com Incentivo a Demissão Voluntária;497626,53;0,00
+Uimara Ines de Artiaga Kristensen;31909413 - Despesa com Incentivo a Demissão Voluntária;226878,08;0,00
+Umberto Dino Dias;31909413 - Despesa com Incentivo a Demissão Voluntária;187239,12;0,00
+Universidade de São Paulo;31909413 - Despesa com Incentivo a Demissão Voluntária;433692,84;0,00
+Valdecir Machado da Costa;31909413 - Despesa com Incentivo a Demissão Voluntária;59132,80;0,00
+Valdelicio Bonifácio de Santana;31909413 - Despesa com Incentivo a Demissão Voluntária;114880,97;0,00
+Valdemar Ferreira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;136192,87;0,00
+Valdemir Jacinto de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;391552,18;0,00
+Valdir de Oliveira Martins;31909413 - Despesa com Incentivo a Demissão Voluntária;188708,50;0,00
+Valdir Rocha;31909413 - Despesa com Incentivo a Demissão Voluntária;164578,03;0,00
+Valdivino Jose Ribeiro;31909413 - Despesa com Incentivo a Demissão Voluntária;99496,69;0,00
+Valeria Machado dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;155241,63;0,00
+Valmir Gonsalo Olivieri;31909413 - Despesa com Incentivo a Demissão Voluntária;196693,46;0,00
+Valter Gurgel dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;158793,54;0,00
+Vanda Maria Conceicao de Jesus;31909413 - Despesa com Incentivo a Demissão Voluntária;128741,00;0,00
+Vandalucia Batista de Oliveira Pena;31909413 - Despesa com Incentivo a Demissão Voluntária;173805,85;0,00
+Vanessa Baccas Ferola;31909413 - Despesa com Incentivo a Demissão Voluntária;19830,17;0,00
+Vera Gandra Carneiro de Albuquerque;31909413 - Despesa com Incentivo a Demissão Voluntária;364137,90;0,00
+Vera Livia Dacorso Brites Borges;31909413 - Despesa com Incentivo a Demissão Voluntária;183158,32;0,00
+Vera Lucia Afonso de Moura;31909413 - Despesa com Incentivo a Demissão Voluntária;88731,69;0,00
+Vera Lucia Alves Antunes Baldavira;31909413 - Despesa com Incentivo a Demissão Voluntária;250789,26;0,00
+Vera Lucia Aparecida da Rocha;31909413 - Despesa com Incentivo a Demissão Voluntária;141109,98;0,00
+Vera Lucia Barbosa de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;382607,82;0,00
+Vera Lucia da Costa Ribeiro;31909413 - Despesa com Incentivo a Demissão Voluntária;300999,14;0,00
+Vera Lucia da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;94577,98;0,00
+Vera Lucia de Jesus;31909413 - Despesa com Incentivo a Demissão Voluntária;137925,30;0,00
+Vera Lucia de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;221113,99;0,00
+Vera Lucia Delomo Beneton;31909413 - Despesa com Incentivo a Demissão Voluntária;93585,54;0,00
+Vera Lucia dos Santos Correia;31909413 - Despesa com Incentivo a Demissão Voluntária;279978,14;0,00
+Vera Lucia Duarte de Sousa;31909413 - Despesa com Incentivo a Demissão Voluntária;330913,55;0,00
+Vera Lucia Ferreira Talin da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;270097,00;0,00
+Vera Lucia Grine Martins;31909413 - Despesa com Incentivo a Demissão Voluntária;226051,39;0,00
+Vera Lucia Leonilda Colina Antao;31909413 - Despesa com Incentivo a Demissão Voluntária;126908,67;0,00
+Vera Lucia Moura Accioli Cardoso;31909413 - Despesa com Incentivo a Demissão Voluntária;391595,69;0,00
+Vera Lucia Pinheiro;31909413 - Despesa com Incentivo a Demissão Voluntária;85887,53;0,00
+Vera Lucia Pires de Araujo;31909413 - Despesa com Incentivo a Demissão Voluntária;206627,76;0,00
+Vera Lucia Rufino Rosa;31909413 - Despesa com Incentivo a Demissão Voluntária;261868,90;0,00
+Vera Lucia Simoes dos Santos Carvalho;31909413 - Despesa com Incentivo a Demissão Voluntária;166114,24;0,00
+Vera Maria Ribeiro da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;172610,83;0,00
+Vera Nunes da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;154125,06;0,00
+Vera Regina Ciorlia D'Avila;31909413 - Despesa com Incentivo a Demissão Voluntária;291758,94;0,00
+Veralucia Alexandrina Carmo de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;96461,98;0,00
+Vergilio Miasiro Junior;31909413 - Despesa com Incentivo a Demissão Voluntária;11075,72;0,00
+Veronica Bruno;31909413 - Despesa com Incentivo a Demissão Voluntária;98814,26;0,00
+Vicente Donizeti Massaro;31909413 - Despesa com Incentivo a Demissão Voluntária;116462,84;0,00
+Vicente Jose Badu;31909413 - Despesa com Incentivo a Demissão Voluntária;99696,11;0,00
+Vicente Lemes Cardoso;31909413 - Despesa com Incentivo a Demissão Voluntária;248817,90;0,00
+Vicente Lucio Cavalcante;31909413 - Despesa com Incentivo a Demissão Voluntária;76689,80;0,00
+Vichnu Marques Young;31909413 - Despesa com Incentivo a Demissão Voluntária;125668,39;0,00
+Victor Faria Seabra;31909413 - Despesa com Incentivo a Demissão Voluntária;39262,02;0,00
+Victor Francisco Mammana de Barros;31909413 - Despesa com Incentivo a Demissão Voluntária;606713,39;0,00
+Vilma Alves Miranda Ferreira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;40639,04;0,00
+Vilma Costa Alves;31909413 - Despesa com Incentivo a Demissão Voluntária;127806,94;0,00
+Vilma da Cunha;31909413 - Despesa com Incentivo a Demissão Voluntária;227929,33;0,00
+Vilma de Almeida Rosa Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;427360,65;0,00
+Vilma dos Santos Trindade Viana;31909413 - Despesa com Incentivo a Demissão Voluntária;379881,25;0,00
+Vilma Maria Rodrigues Miranda;31909413 - Despesa com Incentivo a Demissão Voluntária;249968,14;0,00
+Virginia Miguel Esser Goncalves;31909413 - Despesa com Incentivo a Demissão Voluntária;92923,82;0,00
+Viviane Mandarino Terra;31909413 - Despesa com Incentivo a Demissão Voluntária;316877,33;0,00
+Viviane Paulon Jaremcrusk;31909413 - Despesa com Incentivo a Demissão Voluntária;465710,02;0,00
+Wagner Figueira Deornellas;31909413 - Despesa com Incentivo a Demissão Voluntária;170816,25;0,00
+Walderico Neves;31909413 - Despesa com Incentivo a Demissão Voluntária;118398,61;0,00
+Waldirley William da Silva Dias;31909413 - Despesa com Incentivo a Demissão Voluntária;211619,44;0,00
+Walkiria Calipo Siqueira Rita;31909413 - Despesa com Incentivo a Demissão Voluntária;251586,52;0,00
+Walkiria Duarte;31909413 - Despesa com Incentivo a Demissão Voluntária;373141,66;0,00
+Walter Campestre;31909413 - Despesa com Incentivo a Demissão Voluntária;143408,09;0,00
+Walter Correia de Medeiros;31909413 - Despesa com Incentivo a Demissão Voluntária;217143,21;0,00
+Walther Moreira Junior;31909413 - Despesa com Incentivo a Demissão Voluntária;103282,40;0,00
+Wanda Araujo do Carmo;31909413 - Despesa com Incentivo a Demissão Voluntária;94932,18;0,00
+Wanderley Alves;31909413 - Despesa com Incentivo a Demissão Voluntária;208443,13;0,00
+Wania Cristina Vieira Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;149931,81;0,00
+Wbiray Almeida Mascarenhas;31909413 - Despesa com Incentivo a Demissão Voluntária;103209,64;0,00
+Wildem da Cruz Dias;31909413 - Despesa com Incentivo a Demissão Voluntária;82192,02;0,00
+Wilson Barbosa;31909413 - Despesa com Incentivo a Demissão Voluntária;167001,34;0,00
+Wilson Barbosa dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;59231,24;0,00
+Wilson Germano Ghno;31909413 - Despesa com Incentivo a Demissão Voluntária;146980,75;0,00
+Wilson Goncalves de Oliveira;31909413 - Despesa com Incentivo a Demissão Voluntária;222740,62;0,00
+Wilson Jose Braga;31909413 - Despesa com Incentivo a Demissão Voluntária;159122,05;0,00
+Wilson Pereira da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;162888,92;0,00
+Wilson Roberto Cecheto;31909413 - Despesa com Incentivo a Demissão Voluntária;170965,79;0,00
+Yara Regina dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;95293,16;0,00
+Zacharias da Costa Gadelha Neto;31909413 - Despesa com Incentivo a Demissão Voluntária;497694,16;0,00
+Zenacia Ferreira dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;100314,50;0,00
+Zenaide Maria de Morais Higa;31909413 - Despesa com Incentivo a Demissão Voluntária;362954,60;0,00
+Zilda Antonia Mendonca Izzo;31909413 - Despesa com Incentivo a Demissão Voluntária;155261,90;0,00
+Zilda Domenice Baghi;31909413 - Despesa com Incentivo a Demissão Voluntária;246594,88;0,00
+Zilda Fernandes;31909413 - Despesa com Incentivo a Demissão Voluntária;146222,87;0,00
+Zilda Ferraz;31909413 - Despesa com Incentivo a Demissão Voluntária;169879,02;0,00
+Zilda Ferreira de Lima;31909413 - Despesa com Incentivo a Demissão Voluntária;166660,04;0,00
+Zilda Natalina Ramos Alves;31909413 - Despesa com Incentivo a Demissão Voluntária;173237,34;0,00
+Zilda Pereira dos Santos;31909413 - Despesa com Incentivo a Demissão Voluntária;245493,31;0,00
+Zilma Lucia da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;202953,10;0,00
+Zoraide Santina da Silva;31909413 - Despesa com Incentivo a Demissão Voluntária;120870,72;0,00
+Zuleica de Fatima Silva Paulino;31909413 - Despesa com Incentivo a Demissão Voluntária;186944,08;0,00
+Zulmira Francisco de Souza;31909413 - Despesa com Incentivo a Demissão Voluntária;101155,58;0,00
