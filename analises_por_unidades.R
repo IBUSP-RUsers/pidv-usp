@@ -1,5 +1,44 @@
 ## Carrega dados
 source("prepara_dados.R")
+
+################################################################################
+## Analises para todos os grupos (superior, tecnico, basico) juntos
+################################################################################
+
+## Calculo de taxas e razões ##
+## Proporcoes do n de pessoas e valores do PDV na USP ##
+## em relação a total de funcionarios, celetistas e celetistas com pelo menos 20 anos de USP ##
+## Total de funcionarios ##
+## % dos incluidos no PDV 
+(usp.p.nd <- sum(pdv.unid$N.pdv)/sum(pdv.unid$N.nd)*100)
+## % do total gasto em PDV
+(usp.p.pg.nd <- sum(pdv.unid$pago.pdv)/sum(pdv.unid$sal.nd)*100)
+## Total de celetistas ##
+## % dos incluidos no PDV
+(usp.p.clt <- sum(pdv.unid$N.pdv)/sum(pdv.unid$N.clt)*100)
+## % do pago em PDV 
+(usp.p.pg.clt <- sum(pdv.unid$pago.pdv)/sum(pdv.unid$sal.clt)*100)
+## Celetistas com pelo menos 20 anos de USP##
+## % dos incluidos no PDV
+(usp.p.clt.20 <- sum(pdv.unid$N.pdv)/sum(pdv.unid$N.clt.20)*100)
+## % do pago em PDV 
+(usp.p.pg.clt.20 <- sum(pdv.unid$pago.pdv)/sum(pdv.unid$sal.clt.20)*100)
+## Adiciona desvios em relacao à proporcao
+pdv.unid.p <- mutate(pdv.unid,
+                     p.nd = N.pdv/N.nd*100,
+                     desvio.nd = N.pdv - (N.nd*usp.p.nd)/100,
+                     p.clt = N.pdv/N.clt*100,
+                     desvio.clt = N.pdv - (N.clt*usp.p.clt)/100,
+                     p.clt.20 = N.pdv/N.clt.20*100,
+                     desvio.clt.20 = N.pdv - (N.clt.20*usp.p.clt.20)/100,
+                     p.sal.nd = pago.pdv/sal.nd*100,
+                     desvio.sal.nd = pago.pdv - (sal.nd*usp.p.pg.nd)/100,
+                     p.sal.clt = pago.pdv/sal.clt*100,
+                     desvio.sal.clt = pago.pdv - (sal.clt*usp.p.pg.clt)/100,
+                     p.sal.clt.20 = pago.pdv/sal.clt.20*100,
+                     desvio.sal.clt.20 = pago.pdv - (sal.clt.20*usp.p.pg.clt.20)/100
+                     )
+
 ## Planilha ordenada pelos maiores desvios absolutos
 head(pdv.unid.p[order(abs(pdv.unid.p$desvio.clt.20), decreasing=TRUE),c(1,2,4,5,c(11,13,15,12,14,16))])
 
